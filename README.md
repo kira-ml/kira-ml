@@ -1,75 +1,77 @@
-<h1 align="center">Hi, I'm Ken Ira Lacson 👋</h1>
+<h1 align="center">Hey, I'm Ken Ira Lacson 👋</h1>
 <p align="center">
   🎓 Computer Science Student @ National University Manila <br>
-  🤖 Aspiring Machine Learning Engineer | 📍 Manila, Philippines
+  🤖 Future Machine Learning Engineer | 📍 Manila, Philippines
 </p>
 
-<p align="center"><em>Designing intelligent, scalable AI systems through Reinforcement Learning, NLP, and MLOps.</em></p>
+<p align="center"><em>Driven to build intelligent systems through NLP, RL, and agentic AI.</em></p>
 
 ---
 
 ## 🚀 About Me
 
-I'm **Ken**, a curious and dedicated Computer Science student passionate about building **real-world AI systems**.  
-I specialize in creating **end-to-end machine learning pipelines**, from data wrangling to deployment.
+I'm **Ken**, a passionate Computer Science student exploring how **AI can meaningfully impact the real world**. I focus on developing scalable, intelligent systems at the intersection of:
 
-- 🎯 Focused on: **Agentic AI**, **LLMs**, and **MLOps**
-- 💼 Building production-grade ML solutions with scalability and ethics in mind
-- 🧠 Believer in AI that is explainable, responsible, and human-centered
+- 🧠 **Natural Language Processing (NLP)**
+- 🔁 **Reinforcement Learning**
+- 🧪 **Real-world Physical Models**
+- 🧩 **Multimodal Systems**
+- 🤖 **AI Agents**
 
-> “AI should augment human potential — not replace it.”
+I thrive on solving complex problems with practical applications — from intelligent assistants to autonomous systems. My work emphasizes **clarity, performance, and responsibility** in AI.
 
----
-
-## 🧠 Currently Exploring
-
-- 🔁 **Reinforcement Learning** — policy optimization, multi-agent systems  
-- 🧠 **NLP & LLMs** — transformers, prompt engineering, semantic search  
-- ⚙️ **MLOps** — CI/CD, reproducibility, model versioning  
-- 🔍 **Fintech AI** — credit scoring, loan modeling, interest prediction  
-- 🧠 **Agentic AI** — LangChain, Reflexion, ToT (Tree of Thoughts)  
-- 🧱 **Scalable ML Architectures** — modular pipelines & APIs
+> _“Build AI that collaborates, not replaces.”_
 
 ---
 
-## 🧰 Tech Stack
+## 🧠 Interests & Focus
+
+- 🔁 **Reinforcement Learning** — policy gradients, actor-critic, MARL  
+- 🧠 **NLP & LLMs** — transformers, prompt tuning, retrieval-augmented generation  
+- 🎯 **Agentic AI** — LangChain, Reflexion, memory-based reasoning  
+- 🧱 **Real-World ML Systems** — anomaly detection, predictive modeling, fintech  
+- 🛠 **MLOps & Scalability** — model versioning, CI/CD, modular pipelines  
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,pandas,numpy,fastapi,docker,git,github,jupyter,linux,vscode,opencv" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,pandas,numpy,fastapi,docker,git,github,jupyter,linux,vscode,opencv" alt="Tech Stack Icons" />
 </p>
 
-> 🔍 *Learning & leveling up:* HuggingFace · MLflow · Streamlit · LangChain · Ray RLlib
+> 🧠 *Currently exploring:* HuggingFace · LangChain · MLflow · Streamlit · Ray RLlib
 
 ---
 
-## 💼 Selected Projects
+## 📂 Featured Projects
 
-| 🧪 Project | 📝 Description | 🧰 Tech |
-|----------|----------------|--------|
-| [**Hand Recognizer**](https://github.com/kira-ml/hand_recognizer) | Real-time hand gesture recognition using computer vision. | Python · OpenCV · MediaPipe |
-| [**DeepDraw Digit Recognizer**](https://github.com/kira-ml/DeepDraw-DigitRecognizer) | Interactive app to classify hand-drawn digits. | Tkinter · Scikit-learn |
-| [**Industrial Anomaly Detection**](https://github.com/kira-ml/anomaly-detection-project) | Time-series based anomaly detection in factory sensor data. | Pandas · Sci-kit Learn |
-| [**Tweet Classifier**](https://github.com/kira-ml/Inbound-vs-Outbound-Tweet-Classifier) | Classifies tweet intent using LLMs. | Transformers · NLP |
-| [**Multi-Task Loan Model**](https://github.com/kira-ml/multi-task-default-interest-model) | Predicts loan defaults & interest rates using multi-task learning. | TensorFlow · XGBoost |
-| [**Jurybee: Legal AI Prototype**](https://github.com/kira-ml/jurybee-proto) | LLM-powered legal reasoning system for judgment analysis. | LangChain · LegalBERT · Reflexion |
+| 🔬 Project | 🌐 Description | 🧰 Tools |
+|-----------|----------------|---------|
+| [**Hand Recognizer**](https://github.com/kira-ml/hand_recognizer) | Real-time gesture detection using CV pipelines. | Python · OpenCV · MediaPipe |
+| [**DeepDraw Digit Recognizer**](https://github.com/kira-ml/DeepDraw-DigitRecognizer) | Interactive app for handwritten digit recognition. | Scikit-learn · Tkinter |
+| [**Industrial Anomaly Detection**](https://github.com/kira-ml/anomaly-detection-project) | Detects anomalies in time-series sensor data. | Pandas · Sci-kit Learn |
+| [**Tweet Classifier**](https://github.com/kira-ml/Inbound-vs-Outbound-Tweet-Classifier) | LLM-powered intent classifier for tweets. | Transformers · NLP |
+| [**Loan Risk & Interest Model**](https://github.com/kira-ml/multi-task-default-interest-model) | Predicts loan defaults + interest rates. | TensorFlow · XGBoost |
+| [**Jurybee: Legal AI Agent**](https://github.com/kira-ml/jurybee-proto) | Legal judgment reasoning using LLMs. | LangChain · LegalBERT · Reflexion |
 
-> ⚙️ *WIP:* RL-based AI agents · Scalable ML APIs · Open-source MLOps tools
-
----
-
-## 🎯 2025 Goals
-
-- 🚢 Deploy full-stack ML pipelines using **FastAPI** and **MLflow**
-- 🧠 Deepen expertise in **RLlib**, **Stable Baselines 3**, and **multi-agent systems**
-- 🛠️ Contribute to **open-source agentic AI** and LLM projects
-- 🥇 Win or contribute meaningfully in an **AI hackathon**
-- 🤝 Collaborate with researchers, startups, and engineers worldwide
+> 🔧 *Ongoing:* RL-based agents · modular ML APIs · open-source agent tooling
 
 ---
 
-## 🤝 Connect With Me
+## 🎯 2025 Objectives
 
-Let's collaborate, learn, and build together. Whether you're hiring, open-sourcing, or just want to talk AI — I'm all ears! 😊
+- 📦 Deploy ML APIs with **FastAPI + MLflow**
+- 👥 Advance into **multi-agent reinforcement learning**
+- 🌐 Contribute to **open-source agentic AI** tools
+- 🧠 Deep dive into **causal & interpretable models**
+- 🏆 Participate in global **AI/ML hackathons**
+
+---
+
+## 📬 Let's Connect
+
+I'm always open to collaborations, mentorships, and innovative projects in AI. Feel free to reach out!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ken-ira-lacson-852026343/">
@@ -88,7 +90,7 @@ Let's collaborate, learn, and build together. Whether you're hiring, open-sourci
 
 ---
 
-## 📌 Final Note
+## 🧭 Final Note
 
-> 🎓 *Still a student, but already solving real-world ML problems.*  
-> 🚀 *Let’s shape the future of ethical, impactful AI — one project at a time.*
+> 🎓 Still a student, but building like an engineer.  
+> 🌍 Let’s shape the future of **trustworthy, human-aligned AI** — together.
