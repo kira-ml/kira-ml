@@ -1,52 +1,42 @@
 <div align="center">
-  
+
 # Ken Ira Lacson
 
-**Machine Learning Engineer**  
-Specializing in **Natural Language Processing**, with a focus on LLMs, agentic reasoning, and language-first systems.
+📍 CS Undergraduate · Aspiring ML/NLP Engineer  
+🔬 Focused on **Natural Language Processing**, **LLMs**, and **Agentic Systems**
 
 </div>
 
 ---
 
-## 🧭 About
+## 📌 About Me
 
-I build intelligent, human-aligned systems that use language as an interface — bridging people, data, and decisions. Since encountering ChatGPT in 2022, I've focused deeply on **natural language processing**, especially the capabilities and inner workings of **large language models** (LLMs).
+I'm a Computer Science undergraduate deeply engaged in building real-world applications in **Natural Language Processing**. My journey into ML began in 2022, sparked by an early fascination with ChatGPT and large language models. Since then, I’ve been actively developing systems that harness the power of language as a computational interface — from intelligent agents to semantic search and classification pipelines.
 
-My work spans the design and development of agentic architectures, semantic retrieval systems, and explainable ML pipelines. I value clarity, safety, and research-grounded application in everything I build.
+I’m particularly drawn to the frontier of **LLMs**, where language meets reasoning, planning, and adaptive behavior.
 
 ---
 
-## ⚙️ Tech Stack
+## 🚀 Current Focus
+
+- Designing **language-driven agents** with memory and tool-use  
+- Building full-stack **NLP applications** and interactive ML demos  
+- Exploring **retrieval-augmented generation (RAG)** and prompt engineering  
+- Applying best practices in **model evaluation, deployment, and interpretability**
+
+---
+
+## 🧠 NLP & ML Tech Stack
 
 <div align="center">
 
-| **Language** | **ML/NLP Libraries** | **Infra & Tools** | **Visualization** |
-|-------------|----------------------|-------------------|--------------------|
+| **Languages** | **ML/NLP Libraries** | **Frameworks & Tools** | **Visualization** |
+|--------------|----------------------|------------------------|-------------------|
 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Transformers](https://img.shields.io/badge/-Transformers-000000?style=flat&logo=huggingface&logoColor=yellow) ![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?style=flat&logo=spacy&logoColor=white) ![NLTK](https://img.shields.io/badge/-NLTK-323330?style=flat) | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat) | ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly&logoColor=white) |
 
 </div>
 
-> Currently exploring: memory-augmented agents, causal reasoning, and explainable NLP systems.
-
----
-
-## 🔍 Focus Areas
-
-- **Natural Language Processing**  
-  Tokenization · Embeddings · Prompt Engineering · Semantic Search · Named Entity Recognition
-
-- **Large Language Models (LLMs)**  
-  Fine-tuning · RAG Pipelines · LangChain · Tool-augmented Agents · Multi-turn Reasoning
-
-- **Agent Systems**  
-  Reflexion · Memory + Planning · Goal-driven Behavior · Open-ended Task Decomposition
-
-- **Reinforcement Learning**  
-  Actor-Critic Methods · Multi-Agent RL · Language-guided Policies
-
-- **MLOps & Deployment**  
-  CI/CD for Models · MLflow · FastAPI · Docker · Experiment Tracking
+> Always learning. Currently exploring memory-augmented agents, semantic retrievers, and self-improving LLM loops.
 
 ---
 
@@ -54,38 +44,28 @@ My work spans the design and development of agentic architectures, semantic retr
 
 | Project | Description | Technologies |
 |--------|-------------|--------------|
-| [**Jurybee: Legal AI Agent**](https://github.com/kira-ml/jurybee-proto) | LLM-based agent for legal reasoning using retrieval + reflexion loops. | LangChain · LegalBERT · LLM |
-| [**Tweet Intent Classifier**](https://github.com/kira-ml/Inbound-vs-Outbound-Tweet-Classifier) | Classifies tweets as inbound or outbound using embedding-based features. | Transformers · Text Classification |
-| [**Hand Gesture Recognizer**](https://github.com/kira-ml/hand_recognizer) | Real-time gesture recognition via computer vision pipeline. | OpenCV · MediaPipe |
-| [**Anomaly Detection (Sensor Logs)**](https://github.com/kira-ml/anomaly-detection-project) | Detects anomalies in time-series sensor data. | scikit-learn · Pandas |
-| [**Loan Risk + Interest Model**](https://github.com/kira-ml/multi-task-default-interest-model) | Multi-task learning for default prediction and interest estimation. | TensorFlow · XGBoost |
-| [**DeepDraw Digit Recognizer**](https://github.com/kira-ml/DeepDraw-DigitRecognizer) | GUI-based MNIST classifier using custom digit input. | Tkinter · sklearn |
+| [**Jurybee: Legal AI Agent**](https://github.com/kira-ml/jurybee-proto) | LLM-powered agent for legal text understanding and decision reasoning. | LangChain · LegalBERT · RAG |
+| [**Tweet Intent Classifier**](https://github.com/kira-ml/Inbound-vs-Outbound-Tweet-Classifier) | Classifies tweet directionality for brand communication. | Transformers · NLP |
+| [**Hand Gesture Recognizer**](https://github.com/kira-ml/hand_recognizer) | Real-time hand gesture detection using vision pipeline. | OpenCV · MediaPipe |
+| [**Anomaly Detection (IoT Logs)**](https://github.com/kira-ml/anomaly-detection-project) | Detects anomalies in sensor data from industrial logs. | sklearn · Time-Series |
+| [**Loan Risk + Interest Model**](https://github.com/kira-ml/multi-task-default-interest-model) | Multi-task model for credit risk and interest rate prediction. | TensorFlow · XGBoost |
+| [**DeepDraw Digit Recognizer**](https://github.com/kira-ml/DeepDraw-DigitRecognizer) | MNIST recognizer with custom digit canvas UI. | Tkinter · sklearn |
 
-> _View all repositories at_ 👉 [@kira-ml](https://github.com/kira-ml?tab=repositories)
-
----
-
-## 🚧 Currently Exploring
-
-- Memory-augmented agents and persistent LLM tools  
-- Causal inference and model interpretability in NLP  
-- Multi-agent RL and task orchestration  
-- Open-source contribution to agentic AI libraries  
-- Prompt strategies for tool-use and self-reflection in LLMs
+> Explore all my repositories 👉 [github.com/kira-ml](https://github.com/kira-ml?tab=repositories)
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 Goals
 
-- ✅ Build & deploy full-stack ML apps (FastAPI + MLflow)  
-- 🔄 Contribute to open-source NLP/agent frameworks  
-- 📚 Join research-centered hackathons and reading groups  
-- 🧪 Prototype tool-using, self-improving LLM agents  
-- 📈 Deepen expertise in explainable, safe AI systems  
+- 🔬 Deepen understanding of **LLM reasoning** and agentic design  
+- ⚒️ Contribute to **open-source NLP tools and agent frameworks**  
+- 🚀 Build more **deployable, real-world ML applications**  
+- 🧭 Join research-based reading groups and NLP challenges  
+- 📖 Study **interpretability and safety** in language systems
 
 ---
 
-## 🌐 Connect
+## 📫 Let's Connect
 
 <div align="center">
 
@@ -108,7 +88,7 @@ My work spans the design and development of agentic architectures, semantic retr
 
 ## 🧩 Final Note
 
-Still a student — but thinking, building, and writing like an engineer.  
-On a path to contribute meaningfully to the future of **language-driven, human-centered AI**.
+Still a student — but thinking, building, and learning like an engineer.  
+I aim to contribute to the evolving future of **language-first AI systems** through curiosity, experimentation, and open collaboration.
 
 ---
