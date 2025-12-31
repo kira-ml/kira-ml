@@ -3,64 +3,57 @@
 # Ken Ira Lacson
 
 ### Computer Science Student | Machine Learning Focus
-### National University Manila | BSCS Machine Learning Track
+#### National University Manila | BSCS Machine Learning Track
+
+<br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=800&color=7C3AED&center=true&vCenter=true&width=600&height=80&lines=Computer+Science+Student;Machine+Learning+Focus;Active+Learner+in+MLOps+%26+NLP;Building+Projects+with+Production+Principles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=800&color=7C3AED&center=true&vCenter=true&width=620&lines=Computer+Science+Student;Machine+Learning+Focus;Studying+MLOps+%26+NLP;Building+Projects+with+Purpose" alt="Typing SVG" />
 </p>
 
-<div align="center" style="margin: 20px 0;">
+<br>
+
+<div>
   <img src="https://komarev.com/ghpvc/?username=kira-ml&label=Profile+Views&color=7C3AED&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Active_Student_Learner-10B981?style=flat" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Active_Student-10B981?style=flat" alt="Status" />
   <img src="https://img.shields.io/badge/Focus-MLOps_%26_NLP-7C3AED?style=flat" alt="Focus" />
-  <img src="https://img.shields.io/badge/Level-Developing_%26_Learning-3B82F6?style=flat" alt="Level" />
+  <img src="https://img.shields.io/badge/Level-Developing-3B82F6?style=flat" alt="Level" />
 </div>
 
 </div>
 
 ---
 
-<div align="center">
-
-## 🎓 Current Studies & Academic Focus
+## 🎓 Academic Focus
 
 **National University Manila**  
-Bachelor of Science in Computer Science | Machine Learning Track
+Bachelor of Science in Computer Science, Machine Learning Track
 
-**Primary Learning Areas:**
+**Primary Areas of Study:**
 - Deep Learning & Natural Language Processing
 - MLOps Principles & Machine Learning Engineering
-- Practical Software Development for ML Systems
+- Software Development for ML Systems
 
-**Learning Approach:**
-Project-based learning with emphasis on understanding production concepts and best practices.
-
-</div>
+**Approach:** Project-based learning with emphasis on production concepts and best practices.
 
 ---
 
-<div align="center">
+## 🔬 Technical Learning
 
-## 🔬 Technical Learning & Development
-
-</div>
-
-<div align="center">
-
-### **Current Focus Areas**
+### Current Learning Objectives
 ```python
-learning_focus = {
-    "core_ml_concepts": [
+current_focus = {
+    "core_ml": [
         "Large Language Models (LLMs)",
         "Natural Language Processing",
-        "Transformer Architectures", 
+        "Transformer Architectures",
         "Deep Learning Fundamentals"
     ],
-    "mlops_study": [
-        "MLOps Principles & Workflows",
-        "Model Deployment Concepts",
-        "ML System Architecture Basics",
-        "Infrastructure for ML (Learning)"
+    "mlops_principles": [
+        "MLOps Workflows & Best Practices",
+        "Model Deployment Fundamentals",
+        "ML System Architecture",
+        "Infrastructure for ML"
     ],
     "applied_projects": [
         "Retrieval-Augmented Generation Systems",
@@ -71,13 +64,9 @@ learning_focus = {
 }
 ```
 
-</div>
-
 <br>
 
-<div align="center">
-
-### **Technology Stack (Learning & Applying)**
+### Technology Stack
 
 #### **MLOps & Engineering (Currently Studying)**
 <table>
@@ -119,7 +108,7 @@ learning_focus = {
 </tr>
 </table>
 
-#### **NLP & Deep Learning (Academic Focus)**
+#### **NLP & Deep Learning (Academic Studies)**
 <table>
 <tr>
 <td align="center" width="140">
@@ -159,95 +148,88 @@ learning_focus = {
 </tr>
 </table>
 
-</div>
-
 ---
 
-## 📚 Learning Projects & Coursework
+## 📚 Learning Projects
+
+### **🏛️ Jurybee: Legal NLP Study Project**
+> Exploring Retrieval-Augmented Generation concepts for legal document analysis. Focused on understanding RAG implementation and legal text processing.
+
+**Learning Goals:** RAG implementation · Legal text processing · API development · Semantic search
+
+**Technologies:** PyTorch · LegalBERT · LangChain · FastAPI · Docker · Vector databases
 
 <div align="center">
-
-### **🏛️ Jurybee: Legal NLP Learning Project**
-<p align="center">
   <a href="https://github.com/kira-ml/jurybee-proto">
     <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
   </a>
-  <img src="https://img.shields.io/badge/Learning_Project-7C3AED?style=for-the-badge" alt="Learning Project" />
+  <img src="https://img.shields.io/badge/Study_Project-7C3AED?style=for-the-badge" alt="Study Project" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/RAG_Concept-10B981?style=for-the-badge" alt="RAG Concept" />
-</p>
-
-> Academic project exploring Retrieval-Augmented Generation concepts for legal document analysis. Focused on understanding RAG implementation and legal text processing.
-
-**Learning Goals:** RAG implementation · Legal text processing · API development basics · Semantic search concepts
-
-**Technologies Used:** PyTorch · LegalBERT · LangChain · FastAPI · Docker · Vector databases
-
 </div>
 
 <br>
 
-<div align="center">
+### **💳 Financial Risk Model: MLOps Practice**
+> Implementing MLOps concepts including experiment tracking and multi-task learning for financial risk modeling.
 
-### **💳 Financial Risk Model: MLOps Learning**
-<p align="center">
+**Learning Goals:** MLOps workflows · Experiment tracking · Model architecture · SHAP analysis
+
+**Technologies:** TensorFlow · MLflow · Multi-task learning · Feature engineering
+
+<div align="center">
   <a href="https://github.com/kira-ml/multi-task-default-interest-model">
     <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
   </a>
-  <img src="https://img.shields.io/badge/MLOps_Learning-0194E2?style=for-the-badge" alt="MLOps Learning" />
+  <img src="https://img.shields.io/badge/MLOps_Practice-0194E2?style=for-the-badge" alt="MLOps Practice" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge" alt="MLflow" />
-</p>
-
-> Course project implementing basic MLOps concepts including experiment tracking and multi-task learning for financial risk modeling.
-
-**Learning Goals:** MLOps workflows · Experiment tracking basics · Model architecture design · SHAP analysis implementation
-
-**Technologies Used:** TensorFlow · MLflow · Multi-task learning · Feature engineering
-
 </div>
 
 <br>
 
-<div align="center">
-
 ### **🐦 NLP Intent Classification Study**
-<p align="center">
+> Exploring transformer-based NLP for intent classification with containerization concepts.
+
+**Learning Goals:** Transformer models · Text classification · Containerization · API development
+
+**Technologies:** BERT · Docker · FastAPI · Text preprocessing
+
+<div align="center">
   <a href="https://github.com/kira-ml/Inbound-vs-Outbound-Tweet-Classifier">
     <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
   </a>
   <img src="https://img.shields.io/badge/NLP_Study-3B82F6?style=for-the-badge" alt="NLP Study" />
   <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
-  <img src="https://img.shields.io/badge/Containerization-2496ED?style=for-the-badge" alt="Containerization" />
-</p>
-
-> Study project exploring transformer-based NLP for intent classification with basic containerization concepts.
-
-**Learning Goals:** Transformer model implementation · Text classification · Containerization basics · API development
-
-**Technologies Used:** BERT · Docker · FastAPI · Text preprocessing
-
 </div>
 
 <br>
 
-<div align="center">
-
 ### **✏️ Interactive ML Application Project**
-<p align="center">
+> Developing an interactive machine learning application to understand end-to-end ML workflows.
+
+**Learning Goals:** End-to-end ML application · Model integration · Web interface · Real-time inference
+
+**Technologies:** Flask · Scikit-learn · OpenCV · NumPy
+
+<div align="center">
   <a href="https://github.com/kira-ml/DeepDraw-DigitRecognizer">
     <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
   </a>
-  <img src="https://img.shields.io/badge/Computer_Vision-EC4899?style=for-the-badge" alt="CV" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Interactive_Learning-000000?style=for-the-badge" alt="Interactive" />
-</p>
+  <img src="https://img.shields.io/badge/Computer_Vision-EC4899?style=for-the-badge" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/Interactive_App-000000?style=for-the-badge" alt="Interactive App" />
+</div>
 
-> Educational project developing an interactive machine learning application to understand end-to-end ML workflows.
+---
 
-**Learning Goals:** End-to-end ML application · Model integration · Web interface basics · Real-time inference
+## 🎯 Current Objectives
 
-**Technologies Used:** Flask · Scikit-learn · OpenCV · NumPy · Web development basics
+<div align="center">
+
+| Area | Focus |
+|------|-------|
+| **🧠 Academic** | Machine Learning Theory · Deep Learning · NLP Fundamentals · Research Methods |
+| **⚙️ Technical** | MLOps Principles · Software Engineering · System Design · Deployment Concepts |
+| **📈 Projects** | Practical Applications · Knowledge Implementation · Best Practices · Documentation |
+| **🌱 Growth** | Continuous Learning · Feedback Seeking · Iterative Improvement · Community Engagement |
 
 </div>
 
@@ -255,38 +237,7 @@ learning_focus = {
 
 <div align="center">
 
-## 🎯 Current Learning Objectives
-
-<table>
-  <tr>
-    <td align="center" width="300">
-      <h3>🧠 Academic Focus</h3>
-      <p>Machine Learning Theory<br>Deep Learning Concepts<br>NLP Fundamentals<br>Research Methods</p>
-    </td>
-    <td align="center" width="300">
-      <h3>⚙️ Technical Skills</h3>
-      <p>MLOps Principles<br>Software Engineering<br>System Design Basics<br>Deployment Concepts</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="300">
-      <h3>📈 Project Goals</h3>
-      <p>Build practical projects<br>Apply academic knowledge<br>Learn best practices<br>Document learning process</p>
-    </td>
-    <td align="center" width="300">
-      <h3>🌱 Growth Mindset</h3>
-      <p>Continuous learning<br>Seeking feedback<br>Iterative improvement<br>Community engagement</p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 📬 Connect & Collaborate
+## 📬 Connect
 
 <table>
   <tr>
@@ -315,16 +266,12 @@ learning_focus = {
 
 <p>Open to learning opportunities, project feedback, and collaborations with fellow students and professionals.</p>
 
-</div>
-
 <br>
 
-<div align="center">
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&height=30&lines=Student+%7C+Learner+%7C+Builder+%7C+Growing" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Student+%7C+Learner+%7C+Builder+%7C+Growing" alt="Footer Typing" />
 </p>
 
-<sub>Computer Science Student | Active Learner in ML & NLP | Building Projects, Learning Concepts, Growing Skills</sub>
+<sub>Computer Science Student | Studying ML & NLP | Building Projects, Learning Concepts</sub>
 
 </div>
