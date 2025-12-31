@@ -2,16 +2,17 @@
 
 # Ken Ira Lacson
 
-### Machine Learning Engineer | Deep Learning & NLP Specialist
+### Aspiring MLOps & Machine Learning Engineer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=800&color=7C3AED&center=true&vCenter=true&width=600&height=40&lines=Building+intelligent+systems+with+precision;Deep+Learning+%E2%80%A2+NLP+%E2%80%A2+Generative+AI;From+theory+to+production-ready+ML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=800&color=7C3AED&center=true&vCenter=true&width=600&height=40&lines=Student+passionate+about+scalable+ML+systems;Specializing+in+MLOps+%E2%80%A2+ML+Engineering+%E2%80%A2+Infrastructure;Building+bridge+between+research+and+production" alt="Typing SVG" />
 </p>
 
 <div align="center" style="margin: 20px 0;">
   <img src="https://komarev.com/ghpvc/?username=kira-ml&label=Profile+Views&color=7C3AED&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Building-brightgreen?style=flat&color=10B981" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-ML%20Engineering-7C3AED?style=flat" alt="Focus" />
+  <img src="https://img.shields.io/badge/Status-Learning_%26_Building-brightgreen?style=flat&color=10B981" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-MLOps_%26_ML_Engineering-7C3AED?style=flat" alt="Focus" />
+  <img src="https://img.shields.io/badge/Student-Computer_Science-3B82F6?style=flat" alt="Student" />
 </div>
 
 </div>
@@ -20,19 +21,49 @@
 
 <div align="center">
 
-## 🔬 Technical Expertise
+## 🎓 Current Studies & Specialization
+
+**Computer Science Undergraduate** focusing on:
+- **MLOps & Machine Learning Infrastructure** (actively learning)
+- **Machine Learning Engineering** (coursework & projects)
+- **Production ML Systems** (hands-on practice)
+
+**Passionate about:** Deep Learning, NLP, and Language Models  
+**Goal:** Building robust, scalable ML systems that bridge research and production
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔬 Technical Focus Areas
 
 </div>
 
 <div align="center">
 
-### **Machine Learning Domains**
+### **Areas I'm Specializing In**
 ```python
-domains = {
-    "deep_learning": ["Transformers", "Attention Mechanisms", "Neural Architectures"],
-    "natural_language_processing": ["BERT & Variants", "Text Generation", "Semantic Search"],
-    "generative_ai": ["Language Modeling", "Creative AI Applications"],
-    "classical_ml": ["Ensemble Methods", "Statistical Learning", "Algorithm Design"]
+current_focus = {
+    "actively_studying": [
+        "MLOps Principles",
+        "ML Infrastructure Design",
+        "Model Deployment & Serving",
+        "CI/CD for Machine Learning"
+    ],
+    "hands_on_practice": [
+        "Containerization (Docker)",
+        "Production ML Systems",
+        "Cloud Platforms for ML",
+        "Monitoring & Observability"
+    ],
+    "passionate_about": [
+        "Deep Learning Architectures",
+        "NLP & Language Models",
+        "Transformer Applications",
+        "Generative AI Systems"
+    ]
 }
 ```
 
@@ -42,14 +73,51 @@ domains = {
 
 <div align="center">
 
-### **Technology Stack**
+### **Technology Stack & Learning Path**
 
+#### **MLOps & Engineering (Currently Learning)**
 <table>
 <tr>
 <td align="center" width="140">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
   <br><sub><b>Python</b></sub>
 </td>
+<td align="center" width="140">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+  <br><sub><b>Docker</b></sub>
+</td>
+<td align="center" width="140">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" />
+  <br><sub><b>FastAPI</b></sub>
+</td>
+<td align="center" width="140">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <br><sub><b>Git</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="140">
+  <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" width="40" height="40" alt="MLflow" />
+  <br><sub><b>MLflow</b></sub>
+</td>
+<td align="center" width="140">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS" />
+  <br><sub><b>AWS</b></sub>
+</td>
+<td align="center" width="140">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform" />
+  <br><sub><b>Terraform</b></sub>
+</td>
+<td align="center" width="140">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins" />
+  <br><sub><b>Jenkins</b></sub>
+</td>
+</tr>
+</table>
+
+#### **Machine Learning & Deep Learning (Building Projects)**
+<table>
+<tr>
 <td align="center" width="140">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
   <br><sub><b>PyTorch</b></sub>
@@ -59,26 +127,12 @@ domains = {
   <br><sub><b>TensorFlow</b></sub>
 </td>
 <td align="center" width="140">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-learn" />
-  <br><sub><b>Scikit-learn</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="140">
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="HuggingFace" />
   <br><sub><b>Transformers</b></sub>
 </td>
 <td align="center" width="140">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-  <br><sub><b>Docker</b></sub>
-</td>
-<td align="center" width="140">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <br><sub><b>Git</b></sub>
-</td>
-<td align="center" width="140">
-  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="40" height="40" alt="NumPy" />
-  <br><sub><b>NumPy</b></sub>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-learn" />
+  <br><sub><b>Scikit-learn</b></sub>
 </td>
 </tr>
 </table>
@@ -87,7 +141,7 @@ domains = {
 
 ---
 
-## 📊 Featured Projects
+## 📊 Learning Projects
 
 <div align="center">
 
@@ -96,14 +150,14 @@ domains = {
   <a href="https://github.com/kira-ml/jurybee-proto">
     <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
   </a>
+  <img src="https://img.shields.io/badge/Learning_Project-7C3AED?style=for-the-badge" alt="Learning" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/BERT-FF6F00?style=for-the-badge" alt="BERT" />
   <img src="https://img.shields.io/badge/RAG-10B981?style=for-the-badge" alt="RAG" />
 </p>
 
-> Legal text reasoning and claim analysis using retrieval-augmented generation with domain-specific embeddings.
+> **Learning Focus:** Legal text reasoning with RAG - practicing model integration and API development
 
-**Technical Stack:** LangChain · LegalBERT · RAG · Semantic Search
+**Technical Learning:** LangChain · LegalBERT · FastAPI · Docker · Semantic Search
 
 </div>
 
@@ -116,14 +170,14 @@ domains = {
   <a href="https://github.com/kira-ml/multi-task-default-interest-model">
     <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
   </a>
+  <img src="https://img.shields.io/badge/MLOps_Practice-0194E2?style=for-the-badge" alt="MLOps" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge" alt="XGBoost" />
-  <img src="https://img.shields.io/badge/Multi--task-7C3AED?style=for-the-badge" alt="Multi-task" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge" alt="MLflow" />
 </p>
 
-> Joint model for predicting loan default risk and optimal interest rates with unified architecture.
+> **Learning Focus:** Production ML workflows - experiment tracking and model management
 
-**Technical Stack:** TensorFlow · XGBoost · Multi-task Learning · SHAP
+**Technical Learning:** TensorFlow · MLflow · Model Registry · Experiment Tracking
 
 </div>
 
@@ -136,14 +190,14 @@ domains = {
   <a href="https://github.com/kira-ml/Inbound-vs-Outbound-Tweet-Classifier">
     <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
   </a>
+  <img src="https://img.shields.io/badge/Deployment_Practice-2496ED?style=for-the-badge" alt="Deployment" />
   <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
-  <img src="https://img.shields.io/badge/BERT-FF6F00?style=for-the-badge" alt="BERT" />
-  <img src="https://img.shields.io/badge/NLP-3B82F6?style=for-the-badge" alt="NLP" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-> Transformer-based classification system for corporate social media strategy optimization.
+> **Learning Focus:** Containerized ML applications - packaging models for production
 
-**Technical Stack:** Transformers · BERT · Scikit-learn · Text Processing
+**Technical Learning:** Transformers · BERT · Docker · Model Serving · API Development
 
 </div>
 
@@ -156,14 +210,14 @@ domains = {
   <a href="https://github.com/kira-ml/DeepDraw-DigitRecognizer">
     <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
   </a>
-  <img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter" />
+  <img src="https://img.shields.io/badge/End_to_End_ML-EC4899?style=for-the-badge" alt="End-to-End" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Interactive-EC4899?style=for-the-badge" alt="Interactive" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 </p>
 
-> Interactive digit recognition application with real-time predictions on handwritten digits.
+> **Learning Focus:** Full-stack ML applications - integrating models with web interfaces
 
-**Technical Stack:** Tkinter · Scikit-learn · NumPy · Real-time Processing
+**Technical Learning:** Flask · Scikit-learn · Model Integration · Web Deployment
 
 </div>
 
@@ -171,27 +225,27 @@ domains = {
 
 <div align="center">
 
-## 📈 Research & Development Focus
+## 📚 Academic & Learning Journey
 
 <table>
   <tr>
     <td align="center" width="300">
-      <h3>🧠 Deep Learning</h3>
-      <p>Transformer mechanics<br>Attention optimization<br>Neural architecture design</p>
+      <h3>🎓 Current Studies</h3>
+      <p>Computer Science Major<br>ML Engineering courses<br>Infrastructure & DevOps<br>Software Architecture</p>
     </td>
     <td align="center" width="300">
-      <h3>📚 NLP Systems</h3>
-      <p>Language representation<br>Semantic understanding<br>Text generation</p>
+      <h3>⚙️ Specialization Focus</h3>
+      <p>MLOps principles & practices<br>Production ML systems<br>Cloud infrastructure for ML<br>Model deployment pipelines</p>
     </td>
   </tr>
   <tr>
     <td align="center" width="300">
-      <h3>🎨 Generative AI</h3>
-      <p>Creative applications<br>Model fine-tuning<br>Quality evaluation</p>
+      <h3>🧠 Passion Areas</h3>
+      <p>Deep Learning research<br>NLP & Language Models<br>Transformer applications<br>Generative AI systems</p>
     </td>
     <td align="center" width="300">
-      <h3>⚙️ ML Engineering</h3>
-      <p>Model deployment<br>Performance optimization<br>System architecture</p>
+      <h3>🚀 Career Goals</h3>
+      <p>ML Engineer/MLOps roles<br>Building scalable ML systems<br>Bridging research-production<br>Infrastructure design</p>
     </td>
   </tr>
 </table>
@@ -202,7 +256,7 @@ domains = {
 
 <div align="center">
 
-## 📬 Professional Connect
+## 📬 Connect & Collaborate
 
 <table>
   <tr>
@@ -229,6 +283,8 @@ domains = {
   </tr>
 </table>
 
+<p>Open to learning opportunities, project collaborations, and mentorship in MLOps & ML Engineering!</p>
+
 </div>
 
 <br>
@@ -236,10 +292,10 @@ domains = {
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&height=30&lines=Precision+in+Engineering%2C+Excellence+in+AI" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&height=30&lines=Student+%7C+Learner+%7C+Future+ML+Engineer" alt="Footer Typing" />
 </p>
 
-<sub>Computer Science Undergraduate | Machine Learning Engineering | Research Focus</sub>
+<sub>Computer Science Student | Aspiring MLOps & ML Engineer | Passionate about Production ML Systems</sub>
 
 </div>
 ```
