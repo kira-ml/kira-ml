@@ -3,16 +3,17 @@
 # Ken Ira Lacson
 
 ### Aspiring MLOps & Machine Learning Engineer
+### National University - Manila
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=800&color=7C3AED&center=true&vCenter=true&width=600&height=40&lines=Student+passionate+about+scalable+ML+systems;Specializing+in+MLOps+%E2%80%A2+ML+Engineering+%E2%80%A2+Infrastructure;Building+bridge+between+research+and+production" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=800&color=7C3AED&center=true&vCenter=true&width=600&height=80&lines=Computer+Science+Student+%7C+National+University;Passionate+about+Scalable+ML+Systems;Specializing+in+MLOps+%26+ML+Engineering;Building+Bridge+Research+%E2%86%92+Production" alt="Typing SVG" />
 </p>
 
 <div align="center" style="margin: 20px 0;">
   <img src="https://komarev.com/ghpvc/?username=kira-ml&label=Profile+Views&color=7C3AED&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Learning_%26_Building-brightgreen?style=flat&color=10B981" alt="Status" />
   <img src="https://img.shields.io/badge/Focus-MLOps_%26_ML_Engineering-7C3AED?style=flat" alt="Focus" />
-  <img src="https://img.shields.io/badge/Student-Computer_Science-3B82F6?style=flat" alt="Student" />
+  <img src="https://img.shields.io/badge/Student-National_University-3B82F6?style=flat" alt="Student" />
 </div>
 
 </div>
@@ -23,7 +24,8 @@
 
 ## 🎓 Current Studies & Specialization
 
-**Computer Science Undergraduate** focusing on:
+**Computer Science Undergraduate at National University - Manila**  
+Focusing on:
 - **MLOps & Machine Learning Infrastructure** (actively learning)
 - **Machine Learning Engineering** (coursework & projects)
 - **Production ML Systems** (hands-on practice)
@@ -97,7 +99,7 @@ current_focus = {
 </tr>
 <tr>
 <td align="center" width="140">
-  <img src="https://www.vectorlogo.zone/logos/mlflow/mlflow-icon.svg" width="40" height="40" alt="MLflow" />
+  <img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/_static/light.svg" width="40" height="40" alt="MLflow" style="background-color: #0194E2; border-radius: 5px; padding: 5px;" />
   <br><sub><b>MLflow</b></sub>
 </td>
 <td align="center" width="140">
@@ -230,7 +232,7 @@ current_focus = {
 <table>
   <tr>
     <td align="center" width="300">
-      <h3>🎓 Current Studies</h3>
+      <h3>🎓 National University</h3>
       <p>Computer Science Major<br>ML Engineering courses<br>Infrastructure & DevOps<br>Software Architecture</p>
     </td>
     <td align="center" width="300">
@@ -292,10 +294,10 @@ current_focus = {
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&height=30&lines=Student+%7C+Learner+%7C+Future+ML+Engineer" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&height=30&lines=National+University+Student+%7C+Aspiring+ML+Engineer" alt="Footer Typing" />
 </p>
 
-<sub>Computer Science Student | Aspiring MLOps & ML Engineer | Passionate about Production ML Systems</sub>
+<sub>Computer Science Student at National University | Aspiring MLOps & ML Engineer | Passionate about Production ML Systems</sub>
 
 </div>
 ```
