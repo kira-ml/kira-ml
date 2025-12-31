@@ -3,17 +3,17 @@
 # Ken Ira Lacson
 
 ### Aspiring MLOps & Machine Learning Engineer
-### National University - Manila
+### Computer Science (Machine Learning) | National University Manila
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=800&color=7C3AED&center=true&vCenter=true&width=600&height=80&lines=Computer+Science+Student+%7C+National+University;Passionate+about+Scalable+ML+Systems;Specializing+in+MLOps+%26+ML+Engineering;Building+Bridge+Research+%E2%86%92+Production" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=800&color=7C3AED&center=true&vCenter=true&width=600&height=80&lines=Computer+Science+Student+%7C+National+University;Specializing+in+Machine+Learning;Passionate+about+MLOps+%26+ML+Engineering;Building+Production-Ready+AI+Systems" alt="Typing SVG" />
 </p>
 
 <div align="center" style="margin: 20px 0;">
   <img src="https://komarev.com/ghpvc/?username=kira-ml&label=Profile+Views&color=7C3AED&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Learning_%26_Building-brightgreen?style=flat&color=10B981" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Learning_%26_Building-10B981?style=flat" alt="Status" />
   <img src="https://img.shields.io/badge/Focus-MLOps_%26_ML_Engineering-7C3AED?style=flat" alt="Focus" />
-  <img src="https://img.shields.io/badge/Student-National_University-3B82F6?style=flat" alt="Student" />
+  <img src="https://img.shields.io/badge/Student-National_University_Manila-3B82F6?style=flat" alt="Student" />
 </div>
 
 </div>
@@ -22,16 +22,14 @@
 
 <div align="center">
 
-## 🎓 Current Studies & Specialization
+## 🎓 Academic Background
 
-**Computer Science Undergraduate at National University - Manila**  
-Focusing on:
-- **MLOps & Machine Learning Infrastructure** (actively learning)
-- **Machine Learning Engineering** (coursework & projects)
-- **Production ML Systems** (hands-on practice)
+**National University Manila**  
+Bachelor of Science in Computer Science  
+Specialization: Machine Learning
 
-**Passionate about:** Deep Learning, NLP, and Language Models  
-**Goal:** Building robust, scalable ML systems that bridge research and production
+**Technical Aspirations**
+Pursuing advanced studies in MLOps infrastructure, production machine learning systems, and engineering best practices to bridge the gap between research and deployment.
 
 </div>
 
@@ -39,32 +37,32 @@ Focusing on:
 
 <div align="center">
 
-## 🔬 Technical Focus Areas
+## 🔬 Technical Specializations
 
 </div>
 
 <div align="center">
 
-### **Areas I'm Specializing In**
+### **Professional Focus Areas**
 ```python
-current_focus = {
-    "actively_studying": [
-        "MLOps Principles",
-        "ML Infrastructure Design",
+specializations = {
+    "ml_operations": [
         "Model Deployment & Serving",
-        "CI/CD for Machine Learning"
-    ],
-    "hands_on_practice": [
-        "Containerization (Docker)",
-        "Production ML Systems",
-        "Cloud Platforms for ML",
+        "ML Infrastructure Design",
+        "CI/CD for ML Systems",
         "Monitoring & Observability"
     ],
-    "passionate_about": [
-        "Deep Learning Architectures",
-        "NLP & Language Models",
-        "Transformer Applications",
-        "Generative AI Systems"
+    "machine_learning_engineering": [
+        "Production ML Systems",
+        "Model Optimization",
+        "Scalable Architecture",
+        "Performance Tuning"
+    ],
+    "technical_interests": [
+        "Deep Learning Systems",
+        "Natural Language Processing",
+        "Transformer Architectures",
+        "Generative AI Applications"
     ]
 }
 ```
@@ -75,9 +73,9 @@ current_focus = {
 
 <div align="center">
 
-### **Technology Stack & Learning Path**
+### **Technology Proficiency**
 
-#### **MLOps & Engineering (Currently Learning)**
+#### **MLOps & Engineering Stack**
 <table>
 <tr>
 <td align="center" width="140">
@@ -117,7 +115,7 @@ current_focus = {
 </tr>
 </table>
 
-#### **Machine Learning & Deep Learning (Building Projects)**
+#### **Machine Learning & AI**
 <table>
 <tr>
 <td align="center" width="140">
@@ -143,23 +141,23 @@ current_focus = {
 
 ---
 
-## 📊 Learning Projects
+## 🚀 Technical Projects
 
 <div align="center">
 
-### **🏛️ Jurybee: Legal AI Agent**
+### **🏛️ Jurybee: Legal AI Analysis System**
 <p align="center">
   <a href="https://github.com/kira-ml/jurybee-proto">
     <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
   </a>
-  <img src="https://img.shields.io/badge/Learning_Project-7C3AED?style=for-the-badge" alt="Learning" />
+  <img src="https://img.shields.io/badge/Production_ML-7C3AED?style=for-the-badge" alt="Production" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/RAG-10B981?style=for-the-badge" alt="RAG" />
 </p>
 
-> **Learning Focus:** Legal text reasoning with RAG - practicing model integration and API development
+> Legal document analysis platform implementing retrieval-augmented generation for automated legal reasoning and claim evaluation.
 
-**Technical Learning:** LangChain · LegalBERT · FastAPI · Docker · Semantic Search
+**Technical Implementation:** PyTorch · LegalBERT · FastAPI · Docker · Semantic Search · LangChain
 
 </div>
 
@@ -167,19 +165,19 @@ current_focus = {
 
 <div align="center">
 
-### **💳 Multi-task Loan Risk Model**
+### **💳 Multi-task Financial Risk Assessment**
 <p align="center">
   <a href="https://github.com/kira-ml/multi-task-default-interest-model">
     <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
   </a>
-  <img src="https://img.shields.io/badge/MLOps_Practice-0194E2?style=for-the-badge" alt="MLOps" />
+  <img src="https://img.shields.io/badge/MLOps-0194E2?style=for-the-badge" alt="MLOps" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge" alt="MLflow" />
 </p>
 
-> **Learning Focus:** Production ML workflows - experiment tracking and model management
+> Production-grade financial modeling system featuring joint prediction of default risk and optimal interest rates with comprehensive experiment tracking.
 
-**Technical Learning:** TensorFlow · MLflow · Model Registry · Experiment Tracking
+**Technical Implementation:** TensorFlow · MLflow · Model Registry · SHAP Analysis · Multi-task Learning
 
 </div>
 
@@ -187,19 +185,19 @@ current_focus = {
 
 <div align="center">
 
-### **🐦 Tweet Intent Classifier**
+### **🐦 Social Media Intent Classification**
 <p align="center">
   <a href="https://github.com/kira-ml/Inbound-vs-Outbound-Tweet-Classifier">
     <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
   </a>
-  <img src="https://img.shields.io/badge/Deployment_Practice-2496ED?style=for-the-badge" alt="Deployment" />
+  <img src="https://img.shields.io/badge/Deployment-2496ED?style=for-the-badge" alt="Deployment" />
   <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-> **Learning Focus:** Containerized ML applications - packaging models for production
+> Enterprise-grade NLP system for automated classification of social media content with containerized deployment architecture.
 
-**Technical Learning:** Transformers · BERT · Docker · Model Serving · API Development
+**Technical Implementation:** Transformer Models · BERT · Docker · REST API · Text Processing Pipeline
 
 </div>
 
@@ -207,19 +205,19 @@ current_focus = {
 
 <div align="center">
 
-### **✏️ DeepDraw Digit Recognizer**
+### **✏️ Interactive Digit Recognition System**
 <p align="center">
   <a href="https://github.com/kira-ml/DeepDraw-DigitRecognizer">
     <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
   </a>
-  <img src="https://img.shields.io/badge/End_to_End_ML-EC4899?style=for-the-badge" alt="End-to-End" />
+  <img src="https://img.shields.io/badge/End--to--End-EC4899?style=for-the-badge" alt="End-to-End" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
 </p>
 
-> **Learning Focus:** Full-stack ML applications - integrating models with web interfaces
+> Complete machine learning application featuring real-time handwritten digit recognition with interactive web interface.
 
-**Technical Learning:** Flask · Scikit-learn · Model Integration · Web Deployment
+**Technical Implementation:** Flask · Scikit-learn · NumPy · Model Integration · Web Deployment
 
 </div>
 
@@ -227,27 +225,27 @@ current_focus = {
 
 <div align="center">
 
-## 📚 Academic & Learning Journey
+## 📈 Professional Development
 
 <table>
   <tr>
     <td align="center" width="300">
-      <h3>🎓 National University</h3>
-      <p>Computer Science Major<br>ML Engineering courses<br>Infrastructure & DevOps<br>Software Architecture</p>
+      <h3>🎓 Academic Foundation</h3>
+      <p>Computer Science Principles<br>Machine Learning Theory<br>Software Engineering<br>Data Structures & Algorithms</p>
     </td>
     <td align="center" width="300">
-      <h3>⚙️ Specialization Focus</h3>
-      <p>MLOps principles & practices<br>Production ML systems<br>Cloud infrastructure for ML<br>Model deployment pipelines</p>
+      <h3>⚙️ Professional Focus</h3>
+      <p>MLOps Infrastructure<br>Production ML Systems<br>Cloud-Native Architecture<br>DevOps for AI</p>
     </td>
   </tr>
   <tr>
     <td align="center" width="300">
-      <h3>🧠 Passion Areas</h3>
-      <p>Deep Learning research<br>NLP & Language Models<br>Transformer applications<br>Generative AI systems</p>
+      <h3>🧠 Technical Expertise</h3>
+      <p>Deep Learning Systems<br>NLP & Language Models<br>Transformer Applications<br>Generative AI</p>
     </td>
     <td align="center" width="300">
-      <h3>🚀 Career Goals</h3>
-      <p>ML Engineer/MLOps roles<br>Building scalable ML systems<br>Bridging research-production<br>Infrastructure design</p>
+      <h3>🚀 Career Trajectory</h3>
+      <p>ML Engineering Roles<br>MLOps Positions<br>AI Infrastructure<br>Technical Leadership</p>
     </td>
   </tr>
 </table>
@@ -258,7 +256,7 @@ current_focus = {
 
 <div align="center">
 
-## 📬 Connect & Collaborate
+## 📬 Professional Connections
 
 <table>
   <tr>
@@ -285,7 +283,7 @@ current_focus = {
   </tr>
 </table>
 
-<p>Open to learning opportunities, project collaborations, and mentorship in MLOps & ML Engineering!</p>
+<p>Seeking opportunities for technical collaboration, professional mentorship, and contributions to production machine learning systems.</p>
 
 </div>
 
@@ -294,10 +292,9 @@ current_focus = {
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&height=30&lines=National+University+Student+%7C+Aspiring+ML+Engineer" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&height=30&lines=Advancing+ML+Systems+from+Research+to+Production" alt="Footer Typing" />
 </p>
 
-<sub>Computer Science Student at National University | Aspiring MLOps & ML Engineer | Passionate about Production ML Systems</sub>
+<sub>Computer Science Student | Machine Learning Specialization | Aspiring MLOps & ML Engineering Professional</sub>
 
 </div>
-
