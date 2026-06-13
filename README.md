@@ -2,13 +2,13 @@
 
 # Ken Ira Lacson
 
-### Computer Science Student | Machine Learning Focus
+### Computer Science Student | Aspiring Machine Learning Engineer
 #### National University Manila | BSCS Machine Learning Track
 
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=800&color=7C3AED&center=true&vCenter=true&width=620&lines=Computer+Science+Student;Machine+Learning+Focus;Studying+MLOps+%26+NLP;Building+Projects+with+Purpose" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=800&color=7C3AED&center=true&vCenter=true&width=620&lines=Learning+ML+for+Finance;Focusing+on+Fraud+Detection;Studying+Credit+Risk+Modeling;Future+Interest:+Self-Supervised+Learning" alt="Typing SVG" />
 </p>
 
 <br>
@@ -16,220 +16,179 @@
 <div>
   <img src="https://komarev.com/ghpvc/?username=kira-ml&label=Profile+Views&color=7C3AED&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Active_Student-10B981?style=flat" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-MLOps_%26_NLP-7C3AED?style=flat" alt="Focus" />
-  <img src="https://img.shields.io/badge/Level-Developing-3B82F6?style=flat" alt="Level" />
+  <img src="https://img.shields.io/badge/Focus-Finance_ML-7C3AED?style=flat" alt="Focus" />
+  <img src="https://img.shields.io/badge/Level-Learning-3B82F6?style=flat" alt="Level" />
 </div>
 
 </div>
 
 ---
 
-## 🎓 Academic Focus
+## 🎯 Career Focus
 
-**National University Manila**  
-Bachelor of Science in Computer Science, Machine Learning Track
+**Current Goal:** Machine Learning Engineer specializing in Financial Services
 
-**Primary Areas of Study:**
-- Deep Learning & Natural Language Processing
-- MLOps Principles & Machine Learning Engineering
-- Software Development for ML Systems
+**Specialization Areas:**
+- Fraud Detection Systems
+- Credit Risk Modeling
+- Self-Supervised Learning (future specialization)
 
-**Approach:** Project-based learning with emphasis on production concepts and best practices.
+**Approach:** Building foundational knowledge through focused projects in financial machine learning applications.
 
 ---
 
-## 🔬 Technical Learning
+## 📚 Current Learning Path
 
-### Current Learning Objectives
 ```python
-current_focus = {
+learning_focus = {
+    "finance_ml": [
+        "Fraud Detection Techniques",
+        "Credit Scoring Models", 
+        "Anomaly Detection",
+        "Time Series Analysis for Finance"
+    ],
     "core_ml": [
-        "Large Language Models (LLMs)",
-        "Natural Language Processing",
-        "Transformer Architectures",
-        "Deep Learning Fundamentals"
+        "Self-Supervised Learning Fundamentals",
+        "Deep Learning Architectures",
+        "Representation Learning",
+        "Unsupervised Feature Extraction"
     ],
-    "mlops_principles": [
-        "MLOps Workflows & Best Practices",
-        "Model Deployment Fundamentals",
-        "ML System Architecture",
-        "Infrastructure for ML"
-    ],
-    "applied_projects": [
-        "Retrieval-Augmented Generation Systems",
-        "Language Model Applications",
-        "Text Processing Pipelines",
-        "ML System Prototypes"
+    "practical_skills": [
+        "Model Validation for Finance",
+        "Imbalanced Learning Methods",
+        "Feature Engineering",
+        "Model Interpretability"
     ]
 }
 ```
 
 <br>
 
-### Technology Stack
+### Technologies I'm Learning
 
-#### **MLOps & Engineering (Currently Studying)**
+#### **Machine Learning Core**
 <table>
 <tr>
-<td align="center" width="140">
+<td align="center" width="120">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
   <br><sub><b>Python</b></sub>
 </td>
-<td align="center" width="140">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-  <br><sub><b>Docker</b></sub>
-</td>
-<td align="center" width="140">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" />
-  <br><sub><b>FastAPI</b></sub>
-</td>
-<td align="center" width="140">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <br><sub><b>Git</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="140">
-  <img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/_static/light.svg" width="40" height="40" alt="MLflow" style="background-color: #0194E2; border-radius: 5px; padding: 5px;" />
-  <br><sub><b>MLflow</b></sub>
-</td>
-<td align="center" width="140">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS" />
-  <br><sub><b>AWS</b></sub>
-</td>
-<td align="center" width="140">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform" />
-  <br><sub><b>Terraform</b></sub>
-</td>
-<td align="center" width="140">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins" />
-  <br><sub><b>Jenkins</b></sub>
-</td>
-</tr>
-</table>
-
-#### **NLP & Deep Learning (Academic Studies)**
-<table>
-<tr>
-<td align="center" width="140">
+<td align="center" width="120">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
   <br><sub><b>PyTorch</b></sub>
 </td>
-<td align="center" width="140">
+<td align="center" width="120">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
   <br><sub><b>TensorFlow</b></sub>
 </td>
-<td align="center" width="140">
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="HuggingFace" />
-  <br><sub><b>Transformers</b></sub>
-</td>
-<td align="center" width="140">
+<td align="center" width="120">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-learn" />
   <br><sub><b>Scikit-learn</b></sub>
 </td>
 </tr>
+</table>
+
+#### **Data Science Stack**
+<table>
 <tr>
-<td align="center" width="140">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" width="40" height="40" alt="LangChain" />
-  <br><sub><b>LangChain</b></sub>
+<td align="center" width="120">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
+  <br><sub><b>Pandas</b></sub>
 </td>
-<td align="center" width="140">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV" />
-  <br><sub><b>OpenCV</b></sub>
-</td>
-<td align="center" width="140">
+<td align="center" width="120">
   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="40" height="40" alt="NumPy" />
   <br><sub><b>NumPy</b></sub>
 </td>
-<td align="center" width="140">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
-  <br><sub><b>Pandas</b></sub>
+<td align="center" width="120">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib" />
+  <br><sub><b>Matplotlib</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn" />
+  <br><sub><b>Seaborn</b></sub>
+</td>
+</tr>
+</table>
+
+#### **Version Control**
+<table>
+<tr>
+<td align="center" width="120">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <br><sub><b>Git</b></sub>
+</td>
+<td align="center" width="120">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+  <br><sub><b>GitHub</b></sub>
 </td>
 </tr>
 </table>
 
 ---
 
-## 📚 Learning Projects
+## 📈 Learning Projects
 
-### **🏛️ Jurybee: Legal NLP Study Project**
-> Exploring Retrieval-Augmented Generation concepts for legal document analysis. Focused on understanding RAG implementation and legal text processing.
+### **💳 Credit Risk Modeling Study**
+> Building foundational knowledge in credit risk assessment using machine learning techniques. Focused on understanding feature engineering for financial data and model validation methods.
 
-**Learning Goals:** RAG implementation · Legal text processing · API development · Semantic search
+**Learning Areas:** Credit scoring · Default prediction · Feature engineering · Model validation
 
-**Technologies:** PyTorch · LegalBERT · LangChain · FastAPI · Docker · Vector databases
+**Technologies:** Scikit-learn · Pandas · XGBoost · Imbalanced-learn
 
 <div align="center">
-  <a href="https://github.com/kira-ml/jurybee-proto">
+  <a href="https://github.com/kira-ml/credit-risk-study">
     <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
   </a>
-  <img src="https://img.shields.io/badge/Study_Project-7C3AED?style=for-the-badge" alt="Study Project" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Finance_ML-7C3AED?style=for-the-badge" alt="Finance ML" />
+  <img src="https://img.shields.io/badge/Credit_Risk-10B981?style=for-the-badge" alt="Credit Risk" />
 </div>
 
 <br>
 
-### **💳 Financial Risk Model: MLOps Practice**
-> Implementing MLOps concepts including experiment tracking and multi-task learning for financial risk modeling.
+### **🔍 Fraud Detection Practice**
+> Exploring anomaly detection techniques and imbalanced learning methods for fraud detection applications.
 
-**Learning Goals:** MLOps workflows · Experiment tracking · Model architecture · SHAP analysis
+**Learning Areas:** Anomaly detection · Imbalanced classification · Transaction monitoring · Pattern recognition
 
-**Technologies:** TensorFlow · MLflow · Multi-task learning · Feature engineering
+**Technologies:** PyTorch · Scikit-learn · Isolation Forests · Autoencoders
 
 <div align="center">
-  <a href="https://github.com/kira-ml/multi-task-default-interest-model">
+  <a href="https://github.com/kira-ml/fraud-detection-study">
     <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
   </a>
-  <img src="https://img.shields.io/badge/MLOps_Practice-0194E2?style=for-the-badge" alt="MLOps Practice" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Fraud_Detection-DC2626?style=for-the-badge" alt="Fraud Detection" />
+  <img src="https://img.shields.io/badge/Anomaly_Detection-3B82F6?style=for-the-badge" alt="Anomaly Detection" />
 </div>
 
 <br>
 
-### **🐦 NLP Intent Classification Study**
-> Exploring transformer-based NLP for intent classification with containerization concepts.
+### **🧠 Self-Supervised Learning Exploration**
+> Self-study project exploring contrastive learning and representation learning techniques. Foundation building for future specialization.
 
-**Learning Goals:** Transformer models · Text classification · Containerization · API development
+**Learning Areas:** Contrastive learning · Representation learning · Pretext tasks · Feature extraction
 
-**Technologies:** BERT · Docker · FastAPI · Text preprocessing
-
-<div align="center">
-  <a href="https://github.com/kira-ml/Inbound-vs-Outbound-Tweet-Classifier">
-    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
-  </a>
-  <img src="https://img.shields.io/badge/NLP_Study-3B82F6?style=for-the-badge" alt="NLP Study" />
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers" />
-</div>
-
-<br>
-
-### **✏️ Interactive ML Application Project**
-> Developing an interactive machine learning application to understand end-to-end ML workflows.
-
-**Learning Goals:** End-to-end ML application · Model integration · Web interface · Real-time inference
-
-**Technologies:** Flask · Scikit-learn · OpenCV · NumPy
+**Technologies:** PyTorch · SimCLR concepts · BYOL concepts
 
 <div align="center">
-  <a href="https://github.com/kira-ml/DeepDraw-DigitRecognizer">
+  <a href="https://github.com/kira-ml/ssl-exploration">
     <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
   </a>
-  <img src="https://img.shields.io/badge/Computer_Vision-EC4899?style=for-the-badge" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/Interactive_App-000000?style=for-the-badge" alt="Interactive App" />
+  <img src="https://img.shields.io/badge/Self_Supervised-8B5CF6?style=for-the-badge" alt="Self Supervised" />
+  <img src="https://img.shields.io/badge/Research-Oriented-EC4899?style=for-the-badge" alt="Research Oriented" />
 </div>
 
 ---
 
-## 🎯 Current Objectives
+## 🎯 Learning Objectives
 
 <div align="center">
 
-| Area | Focus |
-|------|-------|
-| **🧠 Academic** | Machine Learning Theory · Deep Learning · NLP Fundamentals · Research Methods |
-| **⚙️ Technical** | MLOps Principles · Software Engineering · System Design · Deployment Concepts |
-| **📈 Projects** | Practical Applications · Knowledge Implementation · Best Practices · Documentation |
-| **🌱 Growth** | Continuous Learning · Feedback Seeking · Iterative Improvement · Community Engagement |
+| Focus Area | Current Priority |
+|------------|------------------|
+| **Financial ML** | Fraud Detection · Credit Risk · Transaction Analysis |
+| **Core Research** | Self-Supervised Learning · Representation Learning |
+| **Technical Skills** | Model Development · Feature Engineering · Validation |
+| **Professional Growth** | Domain Knowledge · Best Practices · Documentation |
 
 </div>
 
@@ -264,14 +223,15 @@ current_focus = {
   </tr>
 </table>
 
-<p>Open to learning opportunities, project feedback, and collaborations with fellow students and professionals.</p>
+<p>Always open to feedback, study partners, and learning opportunities in financial ML and self-supervised learning.</p>
 
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Student+%7C+Learner+%7C+Builder+%7C+Growing" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Always+learning+%7C+Building+foundations;Focusing+on+Finance+%26+SSL" alt="Footer Typing" />
 </p>
 
-<sub>Computer Science Student | Studying ML & NLP | Building Projects, Learning Concepts</sub>
+<sub>Computer Science Student | Learning Machine Learning for Finance | Interested in Self-Supervised Learning</sub>
 
 </div>
+```
