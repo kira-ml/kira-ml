@@ -67,65 +67,75 @@ learning_focus = {
 ### Technologies I'm Learning
 
 #### **Machine Learning & Deep Learning**
-| 
----
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <br><sub><b>Python</b></sub>
-</td>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
-  <br><sub><b>PyTorch</b></sub>
-</td>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
-  <br><sub><b>TensorFlow</b></sub>
-</td>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-learn" />
-  <br><sub><b>Scikit-learn</b></sub>
-</td>
-</table>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+        <br><sub><b>Python</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
+        <br><sub><b>PyTorch</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
+        <br><sub><b>TensorFlow</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-learn" />
+        <br><sub><b>Scikit-learn</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 #### **Data Analysis & Visualization**
-<table>
-<tr>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
-  <br><sub><b>Pandas</b></sub>
-</td>
-<td align="center" width="120">
-  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="40" height="40" alt="NumPy" />
-  <br><sub><b>NumPy</b></sub>
-</td>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib" />
-  <br><sub><b>Matplotlib</b></sub>
-</td>
-<td align="center" width="120">
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn" />
-  <br><sub><b>Seaborn</b></sub>
-</td>
-</tr>
-</table>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
+        <br><sub><b>Pandas</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="40" height="40" alt="NumPy" />
+        <br><sub><b>NumPy</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib" />
+        <br><sub><b>Matplotlib</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn" />
+        <br><sub><b>Seaborn</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 #### **Research & Experimentation**
-<table>
-<tr>
-<td align="center" width="120">
-  <img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greyrectangle.svg" width="40" height="40" alt="Jupyter" />
-  <br><sub><b>Jupyter</b></sub>
-</td>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
-  <br><sub><b>VS Code</b></sub>
-</td>
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <br><sub><b>Git</b></sub>
-</td>
-</tr>
-</table>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greyrectangle.svg" width="40" height="40" alt="Jupyter" />
+        <br><sub><b>Jupyter</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
+        <br><sub><b>VS Code</b></sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+        <br><sub><b>Git</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -149,7 +159,7 @@ learning_focus = {
 ## 📬 Connect
 
 <table>
-<tr>
+  <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/ken-ira-lacson-852026343/">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -170,7 +180,7 @@ learning_focus = {
         <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
       </a>
     </td>
-</tr>
+  </tr>
 </table>
 
 <p>Open to research discussions, study partnerships, and learning opportunities in financial ML and self-supervised learning.</p>
