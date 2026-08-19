@@ -2,13 +2,13 @@
 
 # Ken Ira Lacson
 
-### Computer Science Student | Aspiring Machine Learning Scientist & Data Scientist
+### Computer Science Student | Aspiring Quantitative Researcher & Machine Learning Scientist
 #### National University Manila | BSCS Machine Learning Track
 
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=800&color=7C3AED&center=true&vCenter=true&width=620&lines=Learning+ML+for+Finance;Focusing+on+Fraud+Detection;Studying+Credit+Risk+Modeling;Future+Interest:+Self-Supervised+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=800&color=7C3AED&center=true&vCenter=true&width=620&lines=Specializing+in+Risk+Modeling;Focusing+on+Systematic+Investing;Studying+Portfolio+Management;Future+Interest:+Self-Supervised+Learning" alt="Typing SVG" />
 </p>
 
 <br>
@@ -16,7 +16,7 @@
 <div>
   <img src="https://komarev.com/ghpvc/?username=kira-ml&label=Profile+Views&color=7C3AED&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Active_Student-10B981?style=flat" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-Finance_ML-7C3AED?style=flat" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Quantitative_Finance-7C3AED?style=flat" alt="Focus" />
   <img src="https://img.shields.io/badge/Level-Learning-3B82F6?style=flat" alt="Level" />
 </div>
 
@@ -26,14 +26,15 @@
 
 ## 🎯 Career Focus
 
-**Current Goal:** Machine Learning Scientist / Data Scientist specializing in Financial Services
+**Current Goal:** Quantitative Researcher / Machine Learning Scientist specializing in Systematic Investing
 
 **Specialization Areas:**
-- Fraud Detection Systems
-- Credit Risk Modeling
-- Self-Supervised Learning (future specialization)
+- **Risk Modeling & Allocation**
+- **Systematic Investing Strategies**
+- **Portfolio Management & Optimization**
+- Self-Supervised Learning (future research interest)
 
-**Focus:** Building strong theoretical foundations in machine learning algorithms, statistical modeling, and research methodologies for financial applications.
+**Focus:** Building deep theoretical foundations in financial mathematics, statistical arbitrage, risk factor models, and machine learning applications in quantitative finance.
 
 ---
 
@@ -41,23 +42,30 @@
 
 ```python
 learning_focus = {
-    "finance_ml": [
-        "Fraud Detection Algorithms",
-        "Credit Scoring Models", 
-        "Anomaly Detection Theory",
-        "Time Series Forecasting"
+    "quantitative_finance": [
+        "Risk Factor Models (Fama-French, Barra)",
+        "Portfolio Optimization Theory",
+        "Risk Parity & Risk Budgeting",
+        "Factor Investing & Smart Beta",
+        "Systematic Trading Strategies"
     ],
-    "core_ml_science": [
-        "Self-Supervised Learning Research",
-        "Statistical Learning Theory",
-        "Deep Learning Architectures",
-        "Representation Learning"
+    "risk_modeling": [
+        "Value at Risk (VaR) & Expected Shortfall",
+        "Covariance Matrix Estimation",
+        "Stress Testing & Scenario Analysis",
+        "Tail Risk & Extreme Value Theory",
+        "Risk Attribution & Decomposition"
     ],
-    "data_science": [
-        "Exploratory Data Analysis",
-        "Feature Engineering",
-        "Model Interpretability",
-        "Experimental Design"
+    "ml_for_finance": [
+        "Statistical Arbitrage",
+        "Regime Detection Models",
+        "Volatility Forecasting",
+        "Reinforcement Learning for Trading"
+    ],
+    "research_direction": [
+        "Self-Supervised Learning Applications",
+        "Alternative Data Integration",
+        "Nonlinear Factor Models"
     ]
 }
 ```
@@ -66,7 +74,7 @@ learning_focus = {
 
 ### Technologies I'm Learning
 
-#### **Machine Learning & Deep Learning**
+#### **Quantitative Finance & Risk Analytics**
 
 <div align="center">
   <table>
@@ -91,7 +99,7 @@ learning_focus = {
   </table>
 </div>
 
-#### **Data Analysis & Visualization**
+#### **Data Analysis & Financial Data Processing**
 
 <div align="center">
   <table>
@@ -145,10 +153,27 @@ learning_focus = {
 
 | Focus Area | Current Priority |
 |------------|------------------|
-| **Financial ML** | Fraud Detection · Credit Risk · Time Series Analysis |
-| **Research Direction** | Self-Supervised Learning · Representation Learning |
-| **Data Science** | Statistical Analysis · Experiment Design · Model Validation |
-| **Core Theory** | Algorithm Development · Statistical Learning · Optimization |
+| **Risk Modeling** | Factor Models · Covariance Estimation · Stress Testing |
+| **Systematic Investing** | Factor Investing · Smart Beta · Statistical Arbitrage |
+| **Portfolio Management** | Risk Parity · Optimization · Asset Allocation |
+| **ML Applications** | Regime Detection · Volatility Modeling · Alpha Generation |
+| **Research Direction** | Self-Supervised Learning · Nonlinear Factor Models |
+
+</div>
+
+---
+
+## 📚 Key Concepts I'm Studying
+
+<div align="center">
+
+| Category | Topics |
+|----------|--------|
+| **Risk Metrics** | VaR, Expected Shortfall, Drawdown Analysis, Beta, Sharpe Ratio |
+| **Factor Models** | Fama-French, Barra, PCA Factors, Macro Factors |
+| **Portfolio Theory** | MVO, Risk Parity, Black-Litterman, Hierarchical Risk Parity |
+| **Trading Systems** | Momentum, Mean-Reversion, Carry, Volatility Strategies |
+| **Advanced Topics** | Copulas, GARCH Models, Regime-Switching, Reinforcement Learning |
 
 </div>
 
@@ -183,15 +208,14 @@ learning_focus = {
   </tr>
 </table>
 
-<p>Open to research discussions, study partnerships, and learning opportunities in financial ML and self-supervised learning.</p>
+<p>Open to research discussions, study partnerships, and learning opportunities in quantitative finance, risk modeling, and machine learning applications in systematic investing.</p>
 
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Focusing+on+research+%7C+Building+understanding;ML+Scientist+path+%7C+Finance+focus" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Risk+Modeling+%7C+Systematic+Investing;Quant+Research+Path+%7C+Finance+Focus" alt="Footer Typing" />
 </p>
 
-<sub>Computer Science Student | Learning ML for Finance | Research-oriented | Interested in Self-Supervised Learning</sub>
+<sub>Computer Science Student | Specializing in Risk Modeling & Systematic Investing | Research-oriented | Interested in Self-Supervised Learning</sub>
 
 </div>
-```
