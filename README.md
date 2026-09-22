@@ -2,180 +2,85 @@
 
 # Ken Ira Lacson
 
-### Computer Science Student | Aspiring Quantitative Researcher & Machine Learning Scientist
-#### National University Manila | BSCS Machine Learning Track
+**Aspiring Data Scientist · ML Research Scientist / Engineer**
 
-<br>
+Manila, Philippines · National University Manila · BSCS Machine Learning Track
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=800&color=7C3AED&center=true&vCenter=true&width=620&lines=Specializing+in+Risk+Modeling;Focusing+on+Systematic+Investing;Studying+Portfolio+Management;Future+Interest:+Self-Supervised+Learning" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=800&color=7C3AED&center=true&vCenter=true&width=680&lines=Data+Science+%7C+Machine+Learning;Applied+to+Financial+Decision+Making;Portfolio+Construction+%26+Risk+Modeling;Future+Interest:+Self-Supervised+Learning" alt="Typing SVG" />
 
-<br>
-
-<div>
-  <img src="https://komarev.com/ghpvc/?username=kira-ml&label=Profile+Views&color=7C3AED&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Active_Student-10B981?style=flat" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-Quantitative_Finance-7C3AED?style=flat" alt="Focus" />
-  <img src="https://img.shields.io/badge/Level-Learning-3B82F6?style=flat" alt="Level" />
-</div>
+<img src="https://komarev.com/ghpvc/?username=kira-ml&label=Profile+Views&color=7C3AED&style=flat" alt="Profile Views" />
+<img src="https://img.shields.io/badge/Experience-2+_Years_ML_%26_Data_Science-7C3AED?style=flat" alt="Experience" />
+<img src="https://img.shields.io/badge/Interest-Quantitative_Finance-10B981?style=flat" alt="Interest" />
+<img src="https://img.shields.io/badge/Based_in-Manila-3B82F6?style=flat" alt="Location" />
 
 </div>
 
 ---
 
-## 🎯 Career Focus
+## 🎯 Focus
 
-**Current Goal:** Quantitative Researcher / Machine Learning Scientist specializing in Systematic Investing
+Data science and machine learning research. I build models end-to-end — from raw data through evaluation — and I'm especially interested in applying ML to **financial decision making**, including portfolio construction and risk modeling.
 
-**Specialization Areas:**
-- **Risk Modeling & Allocation**
-- **Systematic Investing Strategies**
-- **Portfolio Management & Optimization**
-- Self-Supervised Learning (future research interest)
-
-**Focus:** Building deep theoretical foundations in financial mathematics, statistical arbitrage, risk factor models, and machine learning applications in quantitative finance.
+**Primary** — Data Scientist · ML Research Scientist / Engineer
+**Domain Interest** — Quantitative Finance · Systematic Investing
 
 ---
 
-## 📚 Current Learning Path
+## 💼 Hands-On Experience
+
+**2+ years** of self-directed machine learning and data science work — building models end-to-end, from data through evaluation.
+
+- **Modeling** — Supervised and time-series models across tabular and sequential data; feature engineering, cross-validation, tuning, and error analysis against baselines.
+- **Engineering** — Full pipelines owned independently: ingestion, cleaning, feature construction, training, evaluation, visualization.
+- **Analysis** — Translating raw datasets into findings through statistical analysis and clear visual reporting.
+- **Current Study** — Working through portfolio optimization, risk factor models, and covariance estimation to bridge ML methods with quantitative finance.
+
+`Python` `PyTorch` `TensorFlow` `scikit-learn` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter` `Git`
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📚 Currently Learning
 
 ```python
 learning_focus = {
-    "quantitative_finance": [
-        "Risk Factor Models (Fama-French, Barra)",
-        "Portfolio Optimization Theory",
-        "Risk Parity & Risk Budgeting",
-        "Factor Investing & Smart Beta",
-        "Systematic Trading Strategies"
+    "machine_learning": [
+        "Supervised & Time-Series Modeling",
+        "Model Evaluation & Error Analysis",
+        "Feature Engineering",
+        "Hyperparameter Tuning",
     ],
-    "risk_modeling": [
-        "Value at Risk (VaR) & Expected Shortfall",
-        "Covariance Matrix Estimation",
-        "Stress Testing & Scenario Analysis",
-        "Tail Risk & Extreme Value Theory",
-        "Risk Attribution & Decomposition"
+    "ml_research_direction": [
+        "Self-Supervised Learning",
+        "Representation Learning",
+        "Nonlinear Factor Models",
     ],
-    "ml_for_finance": [
-        "Statistical Arbitrage",
-        "Regime Detection Models",
-        "Volatility Forecasting",
-        "Reinforcement Learning for Trading"
-    ],
-    "research_direction": [
-        "Self-Supervised Learning Applications",
+    "data_science": [
+        "Statistical Analysis",
+        "Data Visualization & Reporting",
         "Alternative Data Integration",
-        "Nonlinear Factor Models"
-    ]
+    ],
+    "applied_finance": [
+        "Portfolio Construction & Optimization",
+        "Risk Modeling (VaR, Expected Shortfall)",
+        "Covariance Estimation & Shrinkage",
+        "Factor Models (Fama-French, Barra)",
+    ],
 }
 ```
-
-<br>
-
-### Technologies I'm Learning
-
-#### **Quantitative Finance & Risk Analytics**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-        <br><sub><b>Python</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
-        <br><sub><b>PyTorch</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
-        <br><sub><b>TensorFlow</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-learn" />
-        <br><sub><b>Scikit-learn</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-#### **Data Analysis & Financial Data Processing**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
-        <br><sub><b>Pandas</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="40" height="40" alt="NumPy" />
-        <br><sub><b>NumPy</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib" />
-        <br><sub><b>Matplotlib</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn" />
-        <br><sub><b>Seaborn</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-#### **Research & Experimentation**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greyrectangle.svg" width="40" height="40" alt="Jupyter" />
-        <br><sub><b>Jupyter</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
-        <br><sub><b>VS Code</b></sub>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-        <br><sub><b>Git</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🎯 Learning Objectives
-
-<div align="center">
-
-| Focus Area | Current Priority |
-|------------|------------------|
-| **Risk Modeling** | Factor Models · Covariance Estimation · Stress Testing |
-| **Systematic Investing** | Factor Investing · Smart Beta · Statistical Arbitrage |
-| **Portfolio Management** | Risk Parity · Optimization · Asset Allocation |
-| **ML Applications** | Regime Detection · Volatility Modeling · Alpha Generation |
-| **Research Direction** | Self-Supervised Learning · Nonlinear Factor Models |
-
-</div>
-
----
-
-## 📚 Key Concepts I'm Studying
-
-<div align="center">
-
-| Category | Topics |
-|----------|--------|
-| **Risk Metrics** | VaR, Expected Shortfall, Drawdown Analysis, Beta, Sharpe Ratio |
-| **Factor Models** | Fama-French, Barra, PCA Factors, Macro Factors |
-| **Portfolio Theory** | MVO, Risk Parity, Black-Litterman, Hierarchical Risk Parity |
-| **Trading Systems** | Momentum, Mean-Reversion, Carry, Volatility Strategies |
-| **Advanced Topics** | Copulas, GARCH Models, Regime-Switching, Reinforcement Learning |
-
-</div>
 
 ---
 
@@ -183,39 +88,21 @@ learning_focus = {
 
 ## 📬 Connect
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/ken-ira-lacson-852026343/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:kenlacson15@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/kira-ml">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.kaggle.com/keniralacson">
-        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://www.linkedin.com/in/ken-ira-lacson-852026343/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:kenlacson15@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/kira-ml">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.kaggle.com/keniralacson">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+</a>
 
-<p>Open to research discussions, study partnerships, and learning opportunities in quantitative finance, risk modeling, and machine learning applications in systematic investing.</p>
+*Based in Manila · Open to research discussions and opportunities in data science and machine learning.*
 
-<br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Risk+Modeling+%7C+Systematic+Investing;Quant+Research+Path+%7C+Finance+Focus" alt="Footer Typing" />
-</p>
-
-<sub>Computer Science Student | Specializing in Risk Modeling & Systematic Investing | Research-oriented | Interested in Self-Supervised Learning</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=560&lines=Data+Science+%7C+Machine+Learning;Applied+to+Financial+Decision+Making" alt="Footer Typing" />
 
 </div>
