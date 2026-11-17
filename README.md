@@ -2,107 +2,105 @@
 
 # Ken Ira Lacson
 
-**Aspiring Data Scientist · ML Research Scientist / Engineer**
+**Machine Learning & Data Science · Quantitative Research**
 
-Manila, Philippines · National University Manila · BSCS Machine Learning Track
+<sub>Manila, Philippines · BSCS Machine Learning Track, National University Manila</sub>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=800&color=7C3AED&center=true&vCenter=true&width=680&lines=Data+Science+%7C+Machine+Learning;Applied+to+Financial+Decision+Making;Portfolio+Construction+%26+Risk+Modeling;Future+Interest:+Self-Supervised+Learning" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=kira-ml&label=Profile+Views&color=7C3AED&style=flat" alt="Profile Views" />
-<img src="https://img.shields.io/badge/Experience-2+_Years_ML_%26_Data_Science-7C3AED?style=flat" alt="Experience" />
-<img src="https://img.shields.io/badge/Interest-Quantitative_Finance-10B981?style=flat" alt="Interest" />
-<img src="https://img.shields.io/badge/Based_in-Manila-3B82F6?style=flat" alt="Location" />
+[LinkedIn](https://www.linkedin.com/in/ken-ira-lacson-852026343/) · [Email](mailto:keniralacson@gmail.com) · [Kaggle](https://www.kaggle.com/keniralacson) · [GitHub](https://github.com/kira-ml)
 
 </div>
 
 ---
 
-## 🎯 Focus
+> The binding constraint is usually the evaluation, not the model.
 
-Data science and machine learning research. I build models end-to-end — from raw data through evaluation — and I'm especially interested in applying ML to **financial decision making**, including portfolio construction and risk modeling.
-
-**Primary** — Data Scientist · ML Research Scientist / Engineer
-**Domain Interest** — Quantitative Finance · Systematic Investing
+I build reproducible ML systems for financial decision-making: uncertainty-aware models, portfolio construction, execution costs, and the evaluation layer that decides whether a result is real. My default is baseline-first, point-in-time, net-of-cost, and pre-registered where the claim allows it.
 
 ---
 
-## 💼 Hands-On Experience
+## Flagship work
 
-**2+ years** of self-directed machine learning and data science work — building models end-to-end, from data through evaluation.
+### 01 — Epistemic DRO
 
-- **Modeling** — Supervised and time-series models across tabular and sequential data; feature engineering, cross-validation, tuning, and error analysis against baselines.
-- **Engineering** — Full pipelines owned independently: ingestion, cleaning, feature construction, training, evaluation, visualization.
-- **Analysis** — Translating raw datasets into findings through statistical analysis and clear visual reporting.
-- **Current Study** — Working through portfolio optimization, risk factor models, and covariance estimation to bridge ML methods with quantitative finance.
+**Uncertainty-aware portfolio construction · pre-registered evaluation**
 
-`Python` `PyTorch` `TensorFlow` `scikit-learn` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter` `Git`
+A pre-registered test of whether ML epistemic uncertainty improves a distributionally robust mean–CVaR portfolio, net of costs. One completed negative result, two pre-holdout stops, and an untouched 2025–2026 holdout. The paper also shows why the information gate itself needed a power audit.
+
+**Result** — one completed negative result · two pre-holdout stops · zero holdout touches.
+
+`Python` `CVXPY` `LightGBM` `Conformal prediction` `Walk-forward`
+
+[Paper](https://github.com/kira-ml/epistemic-dro/blob/main/paper/mini_paper.pdf) · [Repository](https://github.com/kira-ml/epistemic-dro)
+
+### 02 — Robustfolio
+
+**Evaluation benchmark for portfolio construction · null result**
+
+Seven portfolio constructions, 168 out-of-sample months, and eight pre-registered gates. Both treatments fail. The project makes the case that the comparator and the evaluation rule bind the verdict more than the model does.
+
+**Result** — 18 US ETFs · 168 months · 8 gates · both treatments fail.
+
+`Python` `CVXPY` `Walk-forward` `Bootstrap inference`
+
+[Working paper](https://github.com/kira-ml/robustfolio/blob/main/essays/robustfolio-working-paper.pdf) · [Repository](https://github.com/kira-ml/robustfolio)
+
+### 03 — Execution Lab
+
+**Execution costs and market impact · released system**
+
+A transparent laboratory for the cost assumptions hidden inside a backtest: spread, commission, square-root impact, and timing risk across immediate, TWAP, VWAP, and POV schedules. Built to show when a strategy ranking survives realistic costs — and when it does not.
+
+**Result** — v0.1.0 · 4 schedules · 76 tests · capacity stress.
+
+`Python` `CLI` `Cost modeling` `Capacity analysis`
+
+[Repository](https://github.com/kira-ml/execution-lab) · [Method](https://github.com/kira-ml/execution-lab/blob/main/docs/METHOD.md)
+
+**Synthesis:** [Two nulls, one evaluation problem](https://github.com/kira-ml/robustfolio/blob/main/essays/two-nulls-one-evaluation-problem.md) — what the two research projects teach about comparator choice, power, gate error rates, and holdout discipline.
 
 ---
 
-## 🛠️ Tech Stack
+## How I work
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+| Principle | In practice |
+|---|---|
+| **Baseline first** | A complex model must beat a simple regularized baseline on identical splits. |
+| **Point-in-time or not at all** | No random splits on temporal data; features are lagged; costs are net. |
+| **Pre-register the decision rule** | Comparator, metric, gates, and holdout are fixed before the result. |
+| **Report the null** | A clean negative result is a successful outcome if the protocol holds. |
 
 ---
 
-## 📚 Currently Learning
+## Selected ML systems
 
-```python
-learning_focus = {
-    "machine_learning": [
-        "Supervised & Time-Series Modeling",
-        "Model Evaluation & Error Analysis",
-        "Feature Engineering",
-        "Hyperparameter Tuning",
-    ],
-    "ml_research_direction": [
-        "Self-Supervised Learning",
-        "Representation Learning",
-        "Nonlinear Factor Models",
-    ],
-    "data_science": [
-        "Statistical Analysis",
-        "Data Visualization & Reporting",
-        "Alternative Data Integration",
-    ],
-    "applied_finance": [
-        "Portfolio Construction & Optimization",
-        "Risk Modeling (VaR, Expected Shortfall)",
-        "Covariance Estimation & Shrinkage",
-        "Factor Models (Fama-French, Barra)",
-    ],
-}
-```
+| Project | What it demonstrates |
+|---|---|
+| [Delayed-Label Fraud Decisioning](https://github.com/kira-ml/delayed-label-fraud-decisioning) | Cost-sensitive fraud policy under delayed, censored labels; chronological splits, a calibration gate, and a deployed Streamlit app. The policy reduces realized cost by 22.3% against the strongest simple rule. |
+| [Real-Time Fraud Detection](https://github.com/kira-ml/fraud-detection-real-time) | Leakage-free temporal pipeline with LightGBM; 0.7925 test PR-AUC at 0.03% FPR, with a Flask/Postgres audit trail. |
+| [MoE Factor Timing v2](https://github.com/kira-ml/moe-factor-timing-v2) | Probabilistic regime-aware factor allocation across six US equity factors; 627 out-of-sample decisions and a 248-month holdout. Inconclusive, with a DOI. |
+| [MAE Microstructure Denoising](https://github.com/kira-ml/mae-microstructure-denoising) | Self-supervised denoising of bid–ask noise with causal normalization; synthetic study with explicit limitations. |
+
+---
+
+## Toolkit
+
+**Modeling** · Python, PyTorch, scikit-learn, LightGBM, probabilistic models  
+**Evaluation** · walk-forward validation, bootstrap intervals, calibration, power analysis, deflated Sharpe  
+**Quantitative finance** · CVXPY, mean–CVaR, DRO, covariance shrinkage, factor models, execution costs  
+**Engineering** · pandas, NumPy, pytest, Git, GitHub Actions, Typst
+
+---
+
+## Currently
+
+Advanced Machine Learning · conformal prediction · power analysis · factor models
+
+Open to ML/DS research internships and quantitative research roles.
 
 ---
 
 <div align="center">
 
-## 📬 Connect
-
-<a href="https://www.linkedin.com/in/ken-ira-lacson-852026343/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:kenlacson15@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://github.com/kira-ml">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.kaggle.com/keniralacson">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-</a>
-
-*Based in Manila · Open to research discussions and opportunities in data science and machine learning.*
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=560&lines=Data+Science+%7C+Machine+Learning;Applied+to+Financial+Decision+Making" alt="Footer Typing" />
+<sub>Research prototypes, not investment advice. No alpha or live-trading claims.</sub>
 
 </div>
