@@ -81,11 +81,7 @@ I build reproducible ML systems for financial decision-making: uncertainty-aware
 
 ```mermaid
 flowchart LR
-    A["Data"] --> B["ML + uncertainty"]
-    B --> C["Risk model"]
-    C --> D["Portfolio"]
-    D --> E["Execution"]
-    E --> F["Net evidence"]
+    A["Data"] --> B["ML"] --> C["Risk"] --> D["Portfolio"] --> E["Execution"] --> F["Evidence"]
     classDef paper fill:#F7F4EC,stroke:#C9C2B6,color:#14213D;
     classDef ink fill:#14213D,stroke:#14213D,color:#FFFFFF;
     class A,B,C,D,E paper;
