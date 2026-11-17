@@ -81,19 +81,18 @@ I build reproducible ML systems for financial decision-making: uncertainty-aware
 
 ```mermaid
 flowchart LR
-    A["Point-in-time data"] --> B["ML + uncertainty"]
+    A["Data"] --> B["ML + uncertainty"]
     B --> C["Risk model"]
-    C --> D["Portfolio construction"]
-    D --> E["Execution costs"]
-    E --> F["Net-of-cost evaluation"]
-    F --> G["Pre-registered verdict"]
+    C --> D["Portfolio"]
+    D --> E["Execution"]
+    E --> F["Net evidence"]
     classDef paper fill:#F7F4EC,stroke:#C9C2B6,color:#14213D;
     classDef ink fill:#14213D,stroke:#14213D,color:#FFFFFF;
-    class A,B,C,D,E,F paper;
-    class G ink;
+    class A,B,C,D,E paper;
+    class F ink;
 ```
 
-*The through-line across the projects: data → model → risk → portfolio → execution → evidence.*
+*Point-in-time data → ML + uncertainty → risk model → portfolio construction → execution costs → net-of-cost evidence. The verdict is pre-registered before the result.*
 
 ---
 
