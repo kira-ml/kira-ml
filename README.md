@@ -1,14 +1,10 @@
 <div align="center">
+  <img src="assets/banner.png" alt="Ken Ira Lacson — Quantitative Research, Machine Learning, Portfolio Construction" width="100%" />
+</div>
 
-# Ken Ira Lacson
-
-**Machine Learning & Data Science · Quantitative Research**
-
-<sub>Manila, Philippines · BSCS Machine Learning Track, National University Manila</sub>
+**Evaluation-first machine learning for financial decisions.**
 
 [LinkedIn](https://www.linkedin.com/in/ken-ira-lacson-852026343/) · [Email](mailto:keniralacson@gmail.com) · [Kaggle](https://www.kaggle.com/keniralacson) · [GitHub](https://github.com/kira-ml)
-
-</div>
 
 ---
 
@@ -16,41 +12,51 @@
 
 I build reproducible ML systems for financial decision-making: uncertainty-aware models, portfolio construction, execution costs, and the evaluation layer that decides whether a result is real. My default is baseline-first, point-in-time, net-of-cost, and pre-registered where the claim allows it.
 
+| Research | Evaluation | Current |
+|:---|:---|:---|
+| Uncertainty · portfolio construction · risk | Point-in-time · net-of-cost · pre-registered | Advanced ML · conformal prediction |
+
 ---
 
 ## Flagship work
 
-### 01 — Epistemic DRO
+<sub>PROJECT 01 · RESEARCH</sub>
+
+### Epistemic DRO
 
 **Uncertainty-aware portfolio construction · pre-registered evaluation**
 
-A pre-registered test of whether ML epistemic uncertainty improves a distributionally robust mean–CVaR portfolio, net of costs. One completed negative result, two pre-holdout stops, and an untouched 2025–2026 holdout. The paper also shows why the information gate itself needed a power audit.
+**Question.** Does ML epistemic uncertainty improve the tail-risk/return trade-off of a distributionally robust mean–CVaR portfolio, net of costs?
 
-**Result** — one completed negative result · two pre-holdout stops · zero holdout touches.
+**Result.** One completed negative result, two pre-holdout stops, and an untouched 2025–2026 holdout. The paper also shows why the information gate itself needed a power audit.
 
 `Python` `CVXPY` `LightGBM` `Conformal prediction` `Walk-forward`
 
 [Paper](https://github.com/kira-ml/epistemic-dro/blob/main/paper/mini_paper.pdf) · [Repository](https://github.com/kira-ml/epistemic-dro)
 
-### 02 — Robustfolio
+<sub>PROJECT 02 · RESEARCH</sub>
+
+### Robustfolio
 
 **Evaluation benchmark for portfolio construction · null result**
 
-Seven portfolio constructions, 168 out-of-sample months, and eight pre-registered gates. Both treatments fail. The project makes the case that the comparator and the evaluation rule bind the verdict more than the model does.
+**Question.** Does a robust portfolio method beat the best simple baseline after costs — once you account for having tried more than one method?
 
-**Result** — 18 US ETFs · 168 months · 8 gates · both treatments fail.
+**Result.** Seven constructions, 168 out-of-sample months, and eight pre-registered gates. Both treatments fail. The comparator and the evaluation rule bind the verdict more than the model does.
 
 `Python` `CVXPY` `Walk-forward` `Bootstrap inference`
 
 [Working paper](https://github.com/kira-ml/robustfolio/blob/main/essays/robustfolio-working-paper.pdf) · [Repository](https://github.com/kira-ml/robustfolio)
 
-### 03 — Execution Lab
+<sub>PROJECT 03 · SYSTEM</sub>
+
+### Execution Lab
 
 **Execution costs and market impact · released system**
 
-A transparent laboratory for the cost assumptions hidden inside a backtest: spread, commission, square-root impact, and timing risk across immediate, TWAP, VWAP, and POV schedules. Built to show when a strategy ranking survives realistic costs — and when it does not.
+**Question.** Given a target portfolio and a rebalance, which execution schedule minimizes expected cost plus timing risk — and does the strategy ranking survive realistic costs?
 
-**Result** — v0.1.0 · 4 schedules · 76 tests · capacity stress.
+**Result.** v0.1.0 · four schedules · 76 tests · capacity stress. Built to show what a flat 10-bps backtest assumption hides.
 
 `Python` `CLI` `Cost modeling` `Capacity analysis`
 
@@ -71,6 +77,26 @@ A transparent laboratory for the cost assumptions hidden inside a backtest: spre
 
 ---
 
+## Research pipeline
+
+```mermaid
+flowchart LR
+    A["Point-in-time data"] --> B["ML + uncertainty"]
+    B --> C["Risk model"]
+    C --> D["Portfolio construction"]
+    D --> E["Execution costs"]
+    E --> F["Net-of-cost evaluation"]
+    F --> G["Pre-registered verdict"]
+    classDef paper fill:#F7F4EC,stroke:#C9C2B6,color:#14213D;
+    classDef ink fill:#14213D,stroke:#14213D,color:#FFFFFF;
+    class A,B,C,D,E,F paper;
+    class G ink;
+```
+
+*The through-line across the projects: data → model → risk → portfolio → execution → evidence.*
+
+---
+
 ## Selected ML systems
 
 | Project | What it demonstrates |
@@ -84,10 +110,12 @@ A transparent laboratory for the cost assumptions hidden inside a backtest: spre
 
 ## Toolkit
 
-**Modeling** · Python, PyTorch, scikit-learn, LightGBM, probabilistic models  
-**Evaluation** · walk-forward validation, bootstrap intervals, calibration, power analysis, deflated Sharpe  
-**Quantitative finance** · CVXPY, mean–CVaR, DRO, covariance shrinkage, factor models, execution costs  
-**Engineering** · pandas, NumPy, pytest, Git, GitHub Actions, Typst
+| Layer | Tools |
+|---|---|
+| **Modeling** | Python · PyTorch · scikit-learn · LightGBM · probabilistic models |
+| **Evaluation** | Walk-forward validation · bootstrap intervals · calibration · power analysis · deflated Sharpe |
+| **Quantitative finance** | CVXPY · mean–CVaR · DRO · covariance shrinkage · factor models · execution costs |
+| **Engineering** | pandas · NumPy · pytest · Git · GitHub Actions · Typst |
 
 ---
 
