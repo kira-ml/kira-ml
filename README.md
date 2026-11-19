@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="assets/banner.png" alt="Ken Ira Lacson — Quantitative Research, Machine Learning, Portfolio Construction" width="100%" />
+  <img src="assets/banner.png" alt="Ken Ira Lacson — Financial Risk Decisioning, Machine Learning, Portfolio Construction" width="100%" />
 </div>
 
-**Evaluation-first machine learning for financial decisions.**
+**Financial risk decisioning:** calibrated, cost-sensitive, evaluation-first ML for credit, fraud, and financial risk.
 
 [LinkedIn](https://www.linkedin.com/in/ken-ira-lacson-852026343/) · [Email](mailto:keniralacson@gmail.com) · [Kaggle](https://www.kaggle.com/keniralacson) · [GitHub](https://github.com/kira-ml)
 
@@ -10,11 +10,27 @@
 
 > The binding constraint is usually the evaluation, not the model.
 
-I build reproducible ML systems for financial decision-making: uncertainty-aware models, portfolio construction, execution costs, and the evaluation layer that decides whether a result is real. My default is baseline-first, point-in-time, net-of-cost, and pre-registered where the claim allows it.
+I am specializing in **financial risk decisioning**: the evaluation and decision layer for credit, fraud, and risk models. My work combines risk modeling, calibration, cost-sensitive decisions, and valid evaluation under delayed or selective labels. The quant portfolio/risk work is the foundation, not the whole identity.
+
+My default is baseline-first, point-in-time, net-of-cost, and pre-registered where the claim allows it.
 
 | Research | Evaluation | Current |
 |:---|:---|:---|
-| Uncertainty · portfolio construction · risk | Point-in-time · net-of-cost · pre-registered | Advanced ML · conformal prediction |
+| Financial risk decisioning · credit · fraud · portfolio risk | Temporal · selective labels · calibration · cost-sensitive | Fraud/credit flagship · external review · model risk |
+
+---
+
+## Focus
+
+**Financial risk decisioning.** The durable question is not which model wins; it is whether a risk decision is calibrated, cost-sensitive, and valid under the data the system actually sees.
+
+| Pillar | What I am building |
+|---|---|
+| **Risk domain** | Credit underwriting, fraud, loss forecasting, stress testing |
+| **Decision science** | Calibration, expected loss, capacity-constrained review, cost-sensitive thresholds |
+| **Valid evaluation** | Temporal validation, selective/delayed labels, off-policy evaluation, drift, model risk |
+
+The next few years are about depth in this problem space, not chasing model fashion.
 
 ---
 
@@ -66,6 +82,106 @@ I build reproducible ML systems for financial decision-making: uncertainty-aware
 
 ---
 
+## Next
+
+Building a financial-risk decisioning flagship: policy evaluation under selective and delayed fraud labels, plus a credit-risk validation study. The goal is an open benchmark and a tool a risk team can run on its own logs — not another fraud classifier.
+
+---
+
+## How I work
+
+| Principle | In practice |
+|---|---|
+| **Baseline first** | A complex model must beat a simple regularized baseline on identical splits. |
+  <img src="assets/banner.png" alt="Ken Ira Lacson — Financial Risk Decisioning, Machine Learning, Portfolio Construction" width="100%" />
+</div>
+
+**Financial risk decisioning:** calibrated, cost-sensitive, evaluation-first ML for credit, fraud, and financial risk.
+
+[LinkedIn](https://www.linkedin.com/in/ken-ira-lacson-852026343/) · [Email](mailto:keniralacson@gmail.com) · [Kaggle](https://www.kaggle.com/keniralacson) · [GitHub](https://github.com/kira-ml)
+
+---
+
+> The binding constraint is usually the evaluation, not the model.
+
+I am specializing in **financial risk decisioning**: the evaluation and decision layer for credit, fraud, and risk models. My work combines risk modeling, calibration, cost-sensitive decisions, and valid evaluation under delayed or selective labels. The quant portfolio/risk work is the foundation, not the whole identity.
+
+My default is baseline-first, point-in-time, net-of-cost, and pre-registered where the claim allows it.
+
+| Research | Evaluation | Current |
+|:---|:---|:---|
+| Financial risk decisioning · credit · fraud · portfolio risk | Temporal · selective labels · calibration · cost-sensitive | Fraud/credit flagship · external review · model risk |
+
+---
+
+## Focus
+
+**Financial risk decisioning.** The durable question is not which model wins; it is whether a risk decision is calibrated, cost-sensitive, and valid under the data the system actually sees.
+
+| Pillar | What I am building |
+|---|---|
+| **Risk domain** | Credit underwriting, fraud, loss forecasting, stress testing |
+| **Decision science** | Calibration, expected loss, capacity-constrained review, cost-sensitive thresholds |
+| **Valid evaluation** | Temporal validation, selective/delayed labels, off-policy evaluation, drift, model risk |
+
+The next few years are about depth in this problem space, not chasing model fashion.
+
+---
+
+## Flagship work
+
+<sub>PROJECT 01 · RESEARCH</sub>
+
+### Epistemic DRO
+
+**Uncertainty-aware portfolio construction · pre-registered evaluation**
+
+**Question.** Does ML epistemic uncertainty improve the tail-risk/return trade-off of a distributionally robust mean–CVaR portfolio, net of costs?
+
+**Result.** One completed negative result, two pre-holdout stops, and an untouched 2025–2026 holdout. The paper also shows why the information gate itself needed a power audit.
+
+`Python` `CVXPY` `LightGBM` `Conformal prediction` `Walk-forward`
+
+[Paper](https://github.com/kira-ml/epistemic-dro/blob/main/paper/mini_paper.pdf) · [Repository](https://github.com/kira-ml/epistemic-dro)
+
+<sub>PROJECT 02 · RESEARCH</sub>
+
+### Robustfolio
+
+**Evaluation benchmark for portfolio construction · null result**
+
+**Question.** Does a robust portfolio method beat the best simple baseline after costs — once you account for having tried more than one method?
+
+**Result.** Seven constructions, 168 out-of-sample months, and eight pre-registered gates. Both treatments fail. The comparator and the evaluation rule bind the verdict more than the model does.
+
+`Python` `CVXPY` `Walk-forward` `Bootstrap inference`
+
+[Working paper](https://github.com/kira-ml/robustfolio/blob/main/essays/robustfolio-working-paper.pdf) · [Repository](https://github.com/kira-ml/robustfolio)
+
+<sub>PROJECT 03 · SYSTEM</sub>
+
+### Execution Lab
+
+**Execution costs and market impact · released system**
+
+**Question.** Given a target portfolio and a rebalance, which execution schedule minimizes expected cost plus timing risk — and does the strategy ranking survive realistic costs?
+
+**Result.** v0.1.0 · four schedules · 76 tests · capacity stress. Built to show what a flat 10-bps backtest assumption hides.
+
+`Python` `CLI` `Cost modeling` `Capacity analysis`
+
+[Repository](https://github.com/kira-ml/execution-lab) · [Method](https://github.com/kira-ml/execution-lab/blob/main/docs/METHOD.md)
+
+**Synthesis:** [Two nulls, one evaluation problem](https://github.com/kira-ml/robustfolio/blob/main/essays/two-nulls-one-evaluation-problem.md) — what the two research projects teach about comparator choice, power, gate error rates, and holdout discipline.
+
+---
+
+## Next
+
+Building a financial-risk decisioning flagship: policy evaluation under selective and delayed fraud labels, plus a credit-risk validation study. The goal is an open benchmark and a tool a risk team can run on its own logs — not another fraud classifier.
+
+---
+
 ## How I work
 
 | Principle | In practice |
@@ -96,7 +212,7 @@ flowchart LR
 
 | Project | What it demonstrates |
 |---|---|
-| [Delayed-Label Fraud Decisioning](https://github.com/kira-ml/delayed-label-fraud-decisioning) | Cost-sensitive fraud policy under delayed, censored labels; chronological splits, a calibration gate, and a deployed Streamlit app. The policy reduces realized cost by 22.3% against the strongest simple rule. |
+| [Delayed-Label Fraud Decisioning](https://github.com/kira-ml/delayed-label-fraud-decisioning) | Cost-sensitive fraud policy under delayed, censored labels; chronological splits, a calibration gate, and a demo app. On the fair-baseline comparison, the policy reduces realized cost by 22.3% against the best simple rule. |
 | [Real-Time Fraud Detection](https://github.com/kira-ml/fraud-detection-real-time) | Leakage-free temporal pipeline with LightGBM; 0.7925 test PR-AUC at 0.03% FPR, with a Flask/Postgres audit trail. |
 | [MoE Factor Timing v2](https://github.com/kira-ml/moe-factor-timing-v2) | Probabilistic regime-aware factor allocation across six US equity factors; 627 out-of-sample decisions and a 248-month holdout. Inconclusive, with a DOI. |
 | [MAE Microstructure Denoising](https://github.com/kira-ml/mae-microstructure-denoising) | Self-supervised denoising of bid–ask noise with causal normalization; synthetic study with explicit limitations. |
@@ -116,14 +232,14 @@ flowchart LR
 
 ## Currently
 
-Advanced Machine Learning · conformal prediction · power analysis · factor models
+Financial risk decisioning · credit/fraud decision systems · calibration · selective labels · model risk
 
-Open to ML/DS research internships and quantitative research roles.
+Open to ML/DS research internships in fintech/risk and quantitative research roles.
 
 ---
 
 <div align="center">
 
-<sub>Research prototypes, not investment advice. No alpha or live-trading claims.</sub>
+<sub>Research prototypes, not investment advice. No alpha or live-trading claims. No production fraud system; public or synthetic data only.</sub>
 
 </div>
